@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://denikn.cz/wp-content/themes/dn-2/rss2_style.xsl" ?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>10. stránka &#8211; Deník N</title>
+	<atom:link href="https://denikn.cz/feed?paged=10" rel="self" type="application/rss+xml" />
+	<link>https://denikn.cz</link>
+	<description>Nezávislý český deník</description>
+	<lastBuildDate>Thu, 03 Nov 2022 22:01:51 +0000</lastBuildDate>
+	<language>cs</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9.3</generator>
+	<item>
+		<title>S kamionovou dopravou uděláme to, co Uber s taxíky, říká šéf společnosti Sygic</title>
+		<link>https://denikn.cz/998630/s-kamionovou-dopravou-udelame-to-co-uber-s-taxiky-rika-sef-spolecnosti-sygic/</link>
+		
+		<dc:creator><![CDATA[Tomáš Hrivňák, Denník N]]></dc:creator>
+		<pubDate>Mon, 31 Oct 2022 16:19:31 +0000</pubDate>
+				<category><![CDATA[Ekonomika]]></category>
+		<category><![CDATA[Doprava]]></category>
+		<category><![CDATA[Hi-tech]]></category>
+		<guid isPermaLink="false">https://denikn.cz/?p=998630</guid>
+
+					<description><![CDATA[Společnost Sygic se proslavila svou navigační aplikací pro chytré telefony, která je dosud jednou z nejstahovanějších ve svém segmentu. Dnes se slovenská firma chystá transformovat kamionovou dopravu, říká ředitel Martin Strigač.]]></description>
+		
+		
+		
+		<enclosure url="https://img.novydenik.com/wp-static/2022/10/TBEN1389-copy.jpg?fm%3Djpg%26q%3D85%26w%3D690" type="image/jpeg" length="1156855" />	</item>
+		<item>
+		<title>Vývoj bojů (249. den): Ukrajinci v Sevastopolu podnikli útok, který se asi dostane do dějin vojenství</title>
+		<link>https://denikn.cz/998616/vyvoj-boju-249-den-ukrajinci-v-sevastopolu-podnikli-utok-ktery-se-asi-dostane-do-dejin-vojenstvi/</link>
+		
+		<dc:creator><![CDATA[Roman Pataj, Denník N]]></dc:creator>
+		<pubDate>Mon, 31 Oct 2022 16:03:46 +0000</pubDate>
+				<category><![CDATA[Hlavní]]></category>
+		<category><![CDATA[Svět]]></category>
+		<category><![CDATA[Ruská válka na Ukrajině]]></category>
+		<category><![CDATA[Vývoj bojů na Ukrajině]]></category>
+		<guid isPermaLink="false">https://denikn.cz/?p=998616</guid>
+
+					<description><![CDATA[Válka dronů má novou podobu. Rusové zaútočili na novém místě, potřebují další železnici. Ruští záložníci přicházejí na frontu se starými zbraněmi ve špatném stavu. Mapa dne – okolí Doněcka. Vtip dne: nová bizarnost v ruských médiích – žid a ateista souhlasí s muslimem, že Rusko na Ukrajině vede džihád proti celému Západu. Videa dne: jak se z odminovacího zařízení stala ničivá [&#8230;]]]></description>
+		
+		
+		
+		<enclosure url="https://img.novydenik.com/wp-static/2022/05/admiral_makarov-1200.jpg?fm%3Djpg%26q%3D85%26w%3D690" type="image/jpeg" length="433518" />	</item>
+		<item>
+		<title>Studio N: Proč Babiš vsadil sám na sebe</title>
+		<link>https://denikn.cz/998562/studio-n-proc-babis-vsadil-sam-na-sebe/</link>
+		
+		<dc:creator><![CDATA[Filip Titlbach]]></dc:creator>
+		<pubDate>Mon, 31 Oct 2022 15:50:44 +0000</pubDate>
+				<category><![CDATA[Česko]]></category>
+		<category><![CDATA[Podcast Studio N]]></category>
+		<category><![CDATA[Andrej Babiš]]></category>
+		<category><![CDATA[Studio N]]></category>
+		<category><![CDATA[Volby prezidenta ČR]]></category>
+		<guid isPermaLink="false">https://denikn.cz/?p=998562</guid>
+
+					<description><![CDATA[Předseda hnutí ANO Andrej Babiš oznámil, že bude kandidovat na prezidenta. Jeho aktuální šance moc vysoké nejsou, podle všeho je ale nejlepším kandidátem, jakého může jeho hnutí nabídnout. Jaké možnosti může v kampani využít? A komu by jeho kandidatura mohla nahrát? Filip Titlbach mluví v podcastu s analytikem Janem Tvrdoněm.]]></description>
+		
+		
+		
+		<enclosure url="https://img.novydenik.com/wp-static/2022/10/20221031142209129A5625.jpg?fm%3Djpg%26q%3D85%26w%3D690" type="image/jpeg" length="6780191" />	</item>
+		<item>
+		<title>Úspory plynu v Německu budou klíčové pro celou Evropu. Teď je zásadně ovlivňuje jeden faktor</title>
+		<link>https://denikn.cz/998560/uspory-plynu-v-nemecku-budou-klicove-pro-celou-evropu-ted-je-zasadne-ovlivnuje-jeden-faktor/</link>
+		
+		<dc:creator><![CDATA[Tomáš Grečko, Denník N]]></dc:creator>
+		<pubDate>Mon, 31 Oct 2022 15:30:34 +0000</pubDate>
+				<category><![CDATA[Audio]]></category>
+		<category><![CDATA[Ekonomika]]></category>
+		<category><![CDATA[Energie]]></category>
+		<category><![CDATA[Inflace]]></category>
+		<guid isPermaLink="false">https://denikn.cz/?p=998560</guid>
+
+					<description><![CDATA[Situaci s plynem v Německu s napětím sleduje celá Evropská unie. Pokud Němci tuto zimu nebudou šetřit plynem, bude to mít dopad na všechny. Trh s plynem je vzájemně propojen, a když jeden velký odběratel nemá této suroviny dostatek, zatíží to trhy a zvýší cenu.]]></description>
+		
+		
+		
+		<enclosure url="https://img.novydenik.com/wp-static/2022/10/AdobeStock537806741EditorialUseOnlyjpeg.jpg?fm%3Djpg%26q%3D85%26w%3D690" type="image/jpeg" length="6330168" />	</item>
+		<item>
+		<title>Andrej Babiš má před sebou „ficovský“ problém</title>
+		<link>https://denikn.cz/998104/andrej-babis-ma-pred-sebou-ficovsky-problem/</link>
+		
+		<dc:creator><![CDATA[Eva Mošpanová]]></dc:creator>
+		<pubDate>Mon, 31 Oct 2022 14:53:02 +0000</pubDate>
+				<category><![CDATA[Komentáře]]></category>
+		<category><![CDATA[Názor]]></category>
+		<category><![CDATA[Volby prezidenta ČR]]></category>
+		<guid isPermaLink="false">https://denikn.cz/?p=998104</guid>
+
+					<description><![CDATA[Komentář Evy Mošpanové: Zkušenost Roberta Fica na sousedním Slovensku ukazuje komplikovanou pozici silných politiků v prezidentských volbách. Velká popularita u části voličů může škodit téměř stejně jako velká averze u těch druhých a agresivní kampaň se ne vždy vyplatí.]]></description>
+		
+		
+		
+		<enclosure url="https://img.novydenik.com/wp-static/2022/01/5R0A0854.jpg?fm%3Djpg%26q%3D85%26w%3D690" type="image/jpeg" length="2136363" />	</item>
+		<item>
+		<title>Vadilo mi, že nikomu nevadí, jak lžeme. Musel jsem skončit, říká o&#160;kariéře v&#160;reklamě frontman Vltavy</title>
+		<link>https://denikn.cz/997830/vyrostl-jsem-trochu-ve-spine-taky-proto-musim-hledat-cisty-veci-abych-se-zachranil-rika-frontman-vltavy-nebrensky/</link>
+		
+		<dc:creator><![CDATA[Lenka Vrtišková Nejezchlebová]]></dc:creator>
+		<pubDate>Mon, 31 Oct 2022 13:56:18 +0000</pubDate>
+				<category><![CDATA[Hlavní]]></category>
+		<category><![CDATA[Kultura]]></category>
+		<category><![CDATA[Hudba]]></category>
+		<category><![CDATA[Rodina a vztahy]]></category>
+		<category><![CDATA[Rozhovory]]></category>
+		<guid isPermaLink="false">https://denikn.cz/?p=997830</guid>
+
+					<description><![CDATA[Navzdory svému názvu Spass muss immer sein (Sranda musí bejt) je nová deska Vltavy melancholická a hravě špásuje s posmutnělými spodními proudy. Její frontman, skladatel, textař (a básník) Robert Nebřenský v rozhovoru poodkrývá také temnější kouty své duše. Vrací se do dětství s „nepřítomným“ otcem a násilnickým otčímem. „Smutky, deprese, bolesti a ztráty jsou v té hlubině poklady, které ji dále prohlubují. Autor to všechno musí znát. Je gladiátor, který se pouští s tím vším, co ho potká, do soubojů. Výsledkem má být hladivá, konejšivá a léčící energie.“]]></description>
+		
+		
+		
+		<enclosure url="https://img.novydenik.com/wp-static/2022/10/5R0A3802.jpg?fm%3Djpg%26q%3D85%26w%3D690" type="image/jpeg" length="1829104" />	</item>
+		<item>
+		<title>Pro chybu není prostor. Jak mají senioři investovat, aby inflace nespolkla jejich celoživotní úspory</title>
+		<link>https://denikn.cz/991159/pro-chybu-neni-prostor-jak-maji-seniori-investovat-aby-inflace-nespolkla-jejich-celozivotni-uspory/</link>
+		
+		<dc:creator><![CDATA[Petr Novák]]></dc:creator>
+		<pubDate>Mon, 31 Oct 2022 13:55:59 +0000</pubDate>
+				<category><![CDATA[Ekonomika]]></category>
+		<category><![CDATA[Finance]]></category>
+		<guid isPermaLink="false">https://denikn.cz/?p=991159</guid>
+
+					<description><![CDATA[Vysoká inflace se českých seniorů nedotýká pouze samotným zdražováním. Rychle také snižuje hodnotu celoživotních úspor na účtech, které často odkládají jako dědictví svým potomkům. Jak se starší lidé mohou pokusit tyto ztráty mírnit? Je jejich situace specifická? Odpovídají finanční poradci s dlouholetou praxí.]]></description>
+		
+		
+		
+		<enclosure url="https://img.novydenik.com/wp-static/2022/10/profimedia-0678295079.jpg?fm%3Djpg%26q%3D85%26w%3D690" type="image/jpeg" length="179791" />	</item>
+		<item>
+		<title>Advokáti lidí zavřených v léčebnách často nedělají nic. Pro soudy je to pohodlné, upozorňují právníci</title>
+		<link>https://denikn.cz/990327/advokati-lidi-zavrenych-v-lecebnach-casto-nedelaji-nic-pro-soudy-je-to-pohodlne-upozornuji-pravnici/</link>
+		
+		<dc:creator><![CDATA[Ludmila Blažková]]></dc:creator>
+		<pubDate>Mon, 31 Oct 2022 13:53:24 +0000</pubDate>
+				<category><![CDATA[Česko]]></category>
+		<category><![CDATA[Zdravotnictví]]></category>
+		<guid isPermaLink="false">https://denikn.cz/?p=990327</guid>
+
+					<description><![CDATA[Práva lidí s duševním onemocněním jsou ve veřejném prostoru stále důležitějším tématem. Domoci se svých práv je třeba pro lidi, kteří jsou bez svého souhlasu v psychiatrických léčebnách, často velmi složité, upozorňují advokátka Zuzana Candigliota a Matěj Stříteský, právník z Kanceláře veřejného ochránce práv.]]></description>
+		
+		
+		
+		<enclosure url="https://img.novydenik.com/wp-static/2022/10/profimedia-0667854744.jpg?fm%3Djpg%26q%3D85%26w%3D690" type="image/jpeg" length="333060" />	</item>
+		<item>
+		<title>Policie řeší instalaci s Putinem na budově vnitra. „Pokutu bych zaplatil sám,“ říká Rakušan</title>
+		<link>https://denikn.cz/998286/policie-resi-instalaci-s-putinem-na-budove-vnitra-pokutu-bych-zaplatil-sam-rika-rakusan/</link>
+		
+		<dc:creator><![CDATA[Lukáš Prchal]]></dc:creator>
+		<pubDate>Mon, 31 Oct 2022 12:53:10 +0000</pubDate>
+				<category><![CDATA[Česko]]></category>
+		<category><![CDATA[Ruská válka na Ukrajině]]></category>
+		<guid isPermaLink="false">https://denikn.cz/?p=998286</guid>
+
+					<description><![CDATA[Ministr vnitra Vít Rakušan (STAN) nechal 28. října vyvěsit na budovu svého úřadu českou a ukrajinskou vlajku, mezi nimiž byl ruský prezident Vladimir Putin ve vaku na mrtvoly. Ministrova akce vzbudila různorodé reakce. Touto iniciativou už se však zabývá i policie – jde jí mimo jiné o to, jak a kde byla vyvěšena česká vlajka. Rakušan si myslí, že jeho resort zákon neporušil. Případnou pokutu je podle svých připraven zaplatit ze svého.]]></description>
+		
+		
+		
+		<enclosure url="https://img.novydenik.com/wp-static/2022/10/profimedia-0733701862.jpg?fm%3Djpg%26q%3D85%26w%3D690" type="image/jpeg" length="221126" />	</item>
+		<item>
+		<title>Babiš potřebuje Zemanovo marketingové kouzlo z minulých voleb, říká expert</title>
+		<link>https://denikn.cz/998167/babis-potrebuje-zemanovo-marketingove-kouzlo-z-minulych-voleb-rika-expert/</link>
+		
+		<dc:creator><![CDATA[Jan Tvrdoň]]></dc:creator>
+		<pubDate>Mon, 31 Oct 2022 12:43:29 +0000</pubDate>
+				<category><![CDATA[Česko]]></category>
+		<category><![CDATA[Rozhovory]]></category>
+		<category><![CDATA[Volby prezidenta ČR]]></category>
+		<guid isPermaLink="false">https://denikn.cz/?p=998167</guid>
+
+					<description><![CDATA[Předseda hnutí ANO Andrej Babiš oznámil, že bude kandidovat na prezidenta. Zařadil se tak po bok již známých favoritů voleb. Jak by mohla vypadat jeho kampaň? Politolog Miloš Gregor z Fakulty sociálních studií Masarykovy univerzity popisuje, že Babišovým cílem by mohlo být zopakování Zemanova úspěšného druhého kola voleb v&#160;roce 2018. „Bude se tak snažit mobilizovat voliče, kteří k volbám nechodí, a přesvědčit je, že demokracie posledních třiceti let je hrozná a on by to dělal jinak a lépe,“ popisuje Gregor. ]]></description>
+		
+		
+		
+		<enclosure url="https://img.novydenik.com/wp-static/2022/09/senatni-volby-jihlava-Vystrcil-nagyova-8.jpg?fm%3Djpg%26q%3D85%26w%3D690" type="image/jpeg" length="4862082" />	</item>
+	</channel>
+</rss>

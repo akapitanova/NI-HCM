@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <atom:link href="https://servis.idnes.cz/rss.aspx?c=sport" rel="self" type="application/rss+xml" />
+    <title>Sport iDNES.cz - Nejlepší sport</title>
+    <link>https://www.idnes.cz/sport</link>
+    <description>Nejlepší sport na českém internetu. Původní zpravodajství, on-line reportáže, rozhovory, analýzy, diskuse, ostatní sporty.</description>
+    <language>cs</language>
+    <webMaster>webmaster@idnes.cz (Webmaster iDNES.cz)</webMaster>
+    <managingEditor>idnes@idnes.cz (Managing Editor iDNES.cz)</managingEditor>
+    <copyright>© Copyright MAFRA a.s. 1998 - 2022</copyright>
+    <pubDate>Sun, 06 Nov 2022 18:24:26 GMT</pubDate>
+    <lastBuildDate>Sun, 06 Nov 2022 18:24:26 GMT</lastBuildDate>
+    <image>
+      <title>iDNES.cz</title>
+      <url>https://1gr.cz/u/loga-n4/idnes.gif</url>
+      <link>http://www.idnes.cz/</link>
+    </image>
+    <ttl>2</ttl>
+    <item>
+      <title>ONLINE: Pardubice srovnávají na Spartě, hraje se třetí třetina</title>
+      <link>https://www.idnes.cz/hokej/extraliga/extraliga-19-kolo-zpravodajstvi.A221106_103757_hokej_hrj#utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=sport&amp;utm_content=main</link>
+      <description>Nedělní odpoledne nabízí další várku extraligových zápasů. Šlágr kola bezpochyby hostí pražská O2 arena, kde se Sparta už bez odvolaných trenérů pokusí přemoct aktuálně nejlepší tým soutěže z Pardubic. Všechna utkání sledujeme v podrobných reportážích online.</description>
+      <pubDate>Sun, 06 Nov 2022 18:22:00 GMT</pubDate>
+      <category domain="https://hokej.idnes.cz/hokej.aspx">Hokej - Extraliga</category>
+      <comments>https://www.idnes.cz/hokej/extraliga/extraliga-19-kolo-zpravodajstvi.A221106_103757_hokej_hrj/diskuse</comments>
+      <guid isPermaLink="false">A221106_103757_hokej_hrj</guid>
+      <media:content url="https://1gr.cz/fotky/idnes/22/111/cl6/CZO9746a2_P2022110605673.jpg" type="image/jpeg" />
+      <media:description>Michalové Řepík a Moravčík ve speciálních dresech v utkání proti Pardubicím.</media:description>
+      <media:credit>ČTK</media:credit>
+      <media:group>
+        <media:content url="https://1gr.cz/fotky/idnes/22/111/cl6/CZO974633_p2022110604527.jpg" type="image/jpeg" />
+        <media:content url="https://1gr.cz/fotky/idnes/22/111/cl6/CZO974657_P2022110604901.jpg" type="image/jpeg" />
+      </media:group>
+    </item>
+    <item>
+      <title>Florbalisté zdolali Německo a mají jisté čtvrtfinále. Poslední třetina varuje</title>
+      <link>https://www.idnes.cz/sport/florbal/cesko-nemecko-ms-florbal.A221106_133239_florbal_jrv#utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=sport&amp;utm_content=main</link>
+      <description>Čeští florbalisté zvítězili i ve druhém zápase na mistrovství světa ve Winterthuru. Německo zdolali 8:6 a s plným počtem bodů si zajistili účast ve čtvrtfinále. Po jasném průběhu polevili a poslední třetinu s outsiderem prohráli 0:5.</description>
+      <pubDate>Sun, 06 Nov 2022 18:08:35 GMT</pubDate>
+      <category domain="https://sport.idnes.cz/florbal.aspx">Sport - Florbal</category>
+      <comments>https://www.idnes.cz/sport/florbal/cesko-nemecko-ms-florbal.A221106_133239_florbal_jrv/diskuse</comments>
+      <guid isPermaLink="false">A221106_133239_florbal_jrv</guid>
+      <media:content url="https://1gr.cz/fotky/idnes/22/111/cl6/CZO974674_52481669793_770291eb42_k.jpg" type="image/jpeg" />
+      <media:description>Čeští florbalisté slaví navýšení vedení proti Německu.</media:description>
+      <media:credit>Barbora Reichová / www.ceskyflorbal.cz</media:credit>
+    </item>
+    <item>
+      <title>Petržela sní o pětistovce: Dívám se dopředu, na nostalgii bude čas, až skončím</title>
+      <link>https://www.idnes.cz/fotbal/prvni-liga/milan-petrzela-rekord-465-startu-v-ceske-lize.A221106_181732_fotbal_vp2#utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=sport&amp;utm_content=main</link>
+      <description>Před dvěma týdny vyrovnal absolutní rekord reprezentačního trenéra Jaroslava Šilhavého v počtu startů v nejvyšší soutěži. Od teď už fotbalista Milan Petržela překonává v této statistice jen sám sebe. Ve vítězném utkání s Pardubicemi (1:0) odehrál 465. ligový zápas a před sebou má poslední výzvu – bájnou pětistovku.</description>
+      <pubDate>Sun, 06 Nov 2022 17:41:00 GMT</pubDate>
+      <category domain="https://fotbal.idnes.cz/fotbal.aspx">Fotbal - První liga</category>
+      <comments>https://www.idnes.cz/fotbal/prvni-liga/milan-petrzela-rekord-465-startu-v-ceske-lize.A221106_181732_fotbal_vp2/diskuse</comments>
+      <guid isPermaLink="false">A221106_181732_fotbal_vp2</guid>
+      <media:content url="https://1gr.cz/fotky/idnes/22/111/cl6/CZO974698_P2022110605582.jpg" type="image/jpeg" />
+      <media:description>Milan Petržela s pamětní plaketou ke 465. prvoligovému zápasu.</media:description>
+      <media:credit>ČTK</media:credit>
+    </item>
+    <item>
+      <title>Liberec - Hr. Králové 2:0, k vítězství zavelel van Buren, pečetil ho Rondič</title>
+      <link>https://www.idnes.cz/fotbal/prvni-liga/fortuna-liga-15-kolo-slovan-liberec-hradec-kralove-online.A221106_101929_fotbal_vp2#utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=sport&amp;utm_content=main</link>
+      <description>Liberečtí fotbalisté v 15. kole Fortuna ligy potvrdili, že na Hradec Králové se jim daří – nepodlehli mu pojedenácté za sebou, ba co víc, porazili ho 2:0. Skóre otevřel devátou brankou v sezoně van Buren, v závěru přidal asistenci na druhý gól Rondiče.</description>
+      <pubDate>Sun, 06 Nov 2022 17:37:27 GMT</pubDate>
+      <category domain="https://fotbal.idnes.cz/fotbal.aspx">Fotbal - První liga</category>
+      <comments>https://www.idnes.cz/fotbal/prvni-liga/fortuna-liga-15-kolo-slovan-liberec-hradec-kralove-online.A221106_101929_fotbal_vp2/diskuse</comments>
+      <guid isPermaLink="false">A221106_101929_fotbal_vp2</guid>
+      <media:content url="https://1gr.cz/fotky/idnes/22/111/cl6/CZO974627_152819_2439539.jpg" type="image/jpeg" />
+      <media:description>Liberecký útočník Mick van Buren slaví branku proti Hradci Králové.</media:description>
+      <media:credit>MAFRA</media:credit>
+    </item>
+    <item>
+      <title>Skokan Kubacki vyhrál ve Wisle i druhý závod, Češi skončili v kvalifikaci</title>
+      <link>https://www.idnes.cz/sport/lyzovani-snowboarding/skoky-na-lyzich-wisla.A221106_182624_lyzovani_ald#utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=sport&amp;utm_content=main</link>
+      <description>Polský skokan na lyžích Dawid Kubacki vyhrál ve Wisle i druhý závod nové sezony Světového poháru. Čeští reprezentanti Roman Koudelka, Filip Sakala ani Radek Rýdl nepostoupili z kvalifikace.</description>
+      <pubDate>Sun, 06 Nov 2022 17:27:00 GMT</pubDate>
+      <category domain="https://sport.idnes.cz/lyzovani.aspx">Sport - Lyžování</category>
+      <comments>https://www.idnes.cz/sport/lyzovani-snowboarding/skoky-na-lyzich-wisla.A221106_182624_lyzovani_ald/diskuse</comments>
+      <guid isPermaLink="false">A221106_182624_lyzovani_ald</guid>
+      <media:content url="https://1gr.cz/fotky/idnes/22/111/cl6/CZO9746b8_27525821d4cdc3458fb575f7366f77bad6.jpg" type="image/jpeg" />
+      <media:description>Polský skokan na lyžích Dawid Kubacki vyhrál ve Wisle i druhý závod Světového poháru.</media:description>
+      <media:credit>AP</media:credit>
+    </item>
+    <item>
+      <title>První titul z turnaje Masters. Runeho v Paříži nezastavil ani Djokovič</title>
+      <link>https://www.idnes.cz/sport/tenis/tenis-turnaj-pariz.A221106_181845_tenis_ald#utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=sport&amp;utm_content=main</link>
+      <description>Devatenáctiletý dánský tenista Holger Rune získal v Paříži první titul na turnaji Masters v kariéře. Při svém debutu ve finále akce elitní kategorie zdolal po obratu obhájce trofeje a šestinásobného šampiona Novaka Djokoviče ze Srbska 3:6, 6:3, 7:5.</description>
+      <pubDate>Sun, 06 Nov 2022 17:21:00 GMT</pubDate>
+      <category domain="https://sport.idnes.cz/tenis.aspx">Sport - Tenis</category>
+      <comments>https://www.idnes.cz/sport/tenis/tenis-turnaj-pariz.A221106_181845_tenis_ald/diskuse</comments>
+      <guid isPermaLink="false">A221106_181845_tenis_ald</guid>
+      <media:content url="https://1gr.cz/fotky/idnes/22/111/cl6/CZO9746b5_56e5b1002bd144e5cbe82325f927a2f13.jpg" type="image/jpeg" />
+      <media:description>Dánský tenista Holger Rune během finále turnaje Masters v Paříži proti Novaku Djokovičovi.</media:description>
+      <media:credit>AP</media:credit>
+    </item>
+    <item>
+      <title>Newyorský maraton v letním počasí vyhráli Keňané Chebet a debutantka Lokediová</title>
+      <link>https://www.idnes.cz/sport/atletika/newyorsky-maraton-evans-chebet-sharon-lokediova.A221106_181706_atletika_czo#utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=sport&amp;utm_content=main</link>
+      <description>Newyorský maraton ovládli Keňané. V nečekaně teplém počasí kolem 22 stupňů Celsia vyhráli Evans Chebet a při maratonském debutu Sharon Lokediová.</description>
+      <pubDate>Sun, 06 Nov 2022 17:17:00 GMT</pubDate>
+      <category domain="https://sport.idnes.cz/atletika.aspx">Sport - Atletika</category>
+      <comments>https://www.idnes.cz/sport/atletika/newyorsky-maraton-evans-chebet-sharon-lokediova.A221106_181706_atletika_czo/diskuse</comments>
+      <guid isPermaLink="false">A221106_181706_atletika_czo</guid>
+      <media:content url="https://1gr.cz/fotky/idnes/22/111/cl6/CZO9746a8_33ce63337cd785498082a8eae0d88e4067.jpg" type="image/jpeg" />
+      <media:description>Newyorský maraton ovládl Keňan Evans Chebet.</media:description>
+      <media:credit>AP</media:credit>
+    </item>
+    <item>
+      <title>Slovácko - Pardubice 1:0, Petrželovi rekordní duel zpříjemnil gól Tomiče</title>
+      <link>https://www.idnes.cz/fotbal/prvni-liga/fortuna-liga-15-kolo-slovacko-pardubice-online.A221106_102216_fotbal_vp2#utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=sport&amp;utm_content=main</link>
+      <description>Fotbalisté Slovácka v nejvyšší soutěži podruhé za sebou zvítězili, v 15. kole porazili poslední Pardubice díky brance Tomiče 1:0. Rekordní 465. zápas v české lize odehrál domácí veterán Milan Petržela.</description>
+      <pubDate>Sun, 06 Nov 2022 17:16:53 GMT</pubDate>
+      <category domain="https://fotbal.idnes.cz/fotbal.aspx">Fotbal - První liga</category>
+      <comments>https://www.idnes.cz/fotbal/prvni-liga/fortuna-liga-15-kolo-slovacko-pardubice-online.A221106_102216_fotbal_vp2/diskuse</comments>
+      <guid isPermaLink="false">A221106_102216_fotbal_vp2</guid>
+      <media:content url="https://1gr.cz/fotky/idnes/22/111/cl6/CZO974610_P2022110604326.jpg" type="image/jpeg" />
+      <media:description>Milan Petržela ze Slovácka se snaží prosmýknout kolem pardubického Emila Tischlera.</media:description>
+      <media:credit>ČTK</media:credit>
+    </item>
+    <item>
+      <title>ONLINE: Fiorentina uspěla, Barák střídal. Hraje se derby, pak Juventus - Inter</title>
+      <link>https://www.idnes.cz/fotbal/zahranici/italska-serie-a-13-kolo-online.A221106_180423_fot_zahranici_vp2#utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=sport&amp;utm_content=main</link>
+      <description>Fotbalisté Fiorentiny vyhráli ve 13. kole italské ligy na hřišti Sampdorie Janov 2:0 a jsou jedenáctí, Antonín Barák nastoupil v 83. minutě utkání. Od 18 hodin můžete sledovat online vývoj skóre z derby mezi AS Řím a Laziem.</description>
+      <pubDate>Sun, 06 Nov 2022 17:06:00 GMT</pubDate>
+      <category domain="https://fotbal.idnes.cz/fot_zahranici.aspx">Fotbal - Zahraničí</category>
+      <comments>https://www.idnes.cz/fotbal/zahranici/italska-serie-a-13-kolo-online.A221106_180423_fot_zahranici_vp2/diskuse</comments>
+      <guid isPermaLink="false">A221106_180423_fot_zahranici_vp2</guid>
+      <media:content url="https://1gr.cz/fotky/idnes/22/111/cl6/CZO9746ca_3636c8af0a00fb4d7bb7001db1d5218f38.jpg" type="image/jpeg" />
+      <media:description>Filip Djuricic ze Sampordie je atakován Giacomem Bonaventurou z Fiorentini.</media:description>
+      <media:credit>AP</media:credit>
+    </item>
+    <item>
+      <title>ONLINE: Slavia - Ostrava 1:1, po rohu srovnává hlavou zcela volný Fleišman</title>
+      <link>https://www.idnes.cz/fotbal/prvni-liga/fortuna-liga-15-kolo-slavia-praha-banik-ostrava-online.A221106_102706_fotbal_vp2#utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=sport&amp;utm_content=main</link>
+      <description>Fotbalisté Slavie se v závěrečném utkání 15. kola Fortuna ligy můžou vedoucí Plzni přiblížit na jediný bod. Doma hostí ostravský Baník, duel vám přineseme od 18 hodin v podrobné online reportáži minutu po minutě.</description>
+      <pubDate>Sun, 06 Nov 2022 17:03:44 GMT</pubDate>
+      <category domain="https://fotbal.idnes.cz/fotbal.aspx">Fotbal - První liga</category>
+      <comments>https://www.idnes.cz/fotbal/prvni-liga/fortuna-liga-15-kolo-slavia-praha-banik-ostrava-online.A221106_102706_fotbal_vp2/diskuse</comments>
+      <guid isPermaLink="false">A221106_102706_fotbal_vp2</guid>
+      <media:content url="https://1gr.cz/fotky/idnes/22/111/cl6/CZO9746c9_060818_3067291.jpg" type="image/jpeg" />
+      <media:description>Ondřej Lingr ze Slavie uniká Jiřímu Fleišmanovi z Baníku.</media:description>
+      <media:credit>MAFRA</media:credit>
+      <media:group>
+        <media:content url="https://1gr.cz/fotky/idnes/22/111/cl6/CZO974701_190559_4610566.jpg" type="image/jpeg" />
+        <media:content url="https://1gr.cz/fotky/idnes/22/111/cl6/CZO9746fe_190558_6124724.jpg" type="image/jpeg" />
+      </media:group>
+    </item>
+    <item>
+      <title>Ml. Boleslav - Teplice 3:0, dva góly dal Mareček, třetí přidal Ladra</title>
+      <link>https://www.idnes.cz/fotbal/prvni-liga/fortuna-liga-15-kolo-mlada-boleslav-teplice-online.A221106_101609_fotbal_vp2#utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=sport&amp;utm_content=main</link>
+      <description>Fotbalisté Mladé Boleslavi porazili v 15. kole Fortuna ligy Teplice 3:0 a teprve podruhé v sezoně doma slaví zisk tří bodů. Významně se na nich podílel středopolař Daniel Mareček, autor dvou branek. Třetí zásah přidal Tomáš Ladra.</description>
+      <pubDate>Sun, 06 Nov 2022 16:58:42 GMT</pubDate>
+      <category domain="https://fotbal.idnes.cz/fotbal.aspx">Fotbal - První liga</category>
+      <comments>https://www.idnes.cz/fotbal/prvni-liga/fortuna-liga-15-kolo-mlada-boleslav-teplice-online.A221106_101609_fotbal_vp2/diskuse</comments>
+      <guid isPermaLink="false">A221106_101609_fotbal_vp2</guid>
+      <media:content url="https://1gr.cz/fotky/idnes/22/111/cl6/CZO97463a_P2022110604638.jpg" type="image/jpeg" />
+      <media:description>Daniel Mareček z Mladé Boleslavi slaví trefu proti Teplicím.</media:description>
+      <media:credit>ČTK</media:credit>
+    </item>
+    <item>
+      <title>Gól patičkou, navrch asistence. Hložek se blýskl při demolici Unionu Berlín</title>
+      <link>https://www.idnes.cz/fotbal/zahranici/nemecka-bundesliga-13-kolo-online.A221106_105629_fot_zahranici_vp2#utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=sport&amp;utm_content=main</link>
+      <description>Ve třináctém kole bundesligy se český fotbalista Adam Hložek dočkal premiérové trefy za Leverkusen. A nebyla ledajaká, nadějný reprezentant skóroval mazáckou patičkou. Vzápětí přidal asistenci a Bayer nakonec deklasoval Union Berlín, který tak po téměř dvou měsících přišel o vedení v tabulce, vysoko 5:0.</description>
+      <pubDate>Sun, 06 Nov 2022 16:49:59 GMT</pubDate>
+      <category domain="https://fotbal.idnes.cz/fot_zahranici.aspx">Fotbal - Zahraničí</category>
+      <comments>https://www.idnes.cz/fotbal/zahranici/nemecka-bundesliga-13-kolo-online.A221106_105629_fot_zahranici_vp2/diskuse</comments>
+      <guid isPermaLink="false">A221106_105629_fot_zahranici_vp2</guid>
+      <media:content url="https://1gr.cz/fotky/idnes/22/111/cl6/CZO97469f_246d26cee4d53744aaa649ac36751b28f5.jpg" type="image/jpeg" />
+      <media:description>Adam Hložek se prosazuje v dresu Leverkusenu proti Unionu Berlín.</media:description>
+      <media:credit>AP</media:credit>
+    </item>
+    <item>
+      <title>ONLINE: Arsenal je po derby první, vítězná premiéra Emeryho. Co Liverpool?</title>
+      <link>https://www.idnes.cz/fotbal/zahranici/anglicka-premier-league-15-kolo-online.A221106_104003_fot_zahranici_vp2#utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=sport&amp;utm_content=main</link>
+      <description>Fotbalisté Arsenalu v 15. kole anglické Premier League porazili Chelsea 1:0 a vrátili se na první místo tabulky. Londýnské derby rozhodl po změně stran gólem brazilský stoper Gabriel. Španělský trenér Unai Emery se vrátil do soutěže úspěšně, Aston Villa zdolala Manchester United 3:1. Od 17:30 můžete sledovat podrobný online přenos ze střetnutí Tottenhamu s Liverpoolem.</description>
+      <pubDate>Sun, 06 Nov 2022 16:42:23 GMT</pubDate>
+      <category domain="https://fotbal.idnes.cz/fot_zahranici.aspx">Fotbal - Zahraničí</category>
+      <comments>https://www.idnes.cz/fotbal/zahranici/anglicka-premier-league-15-kolo-online.A221106_104003_fot_zahranici_vp2/diskuse</comments>
+      <guid isPermaLink="false">A221106_104003_fot_zahranici_vp2</guid>
+      <media:content url="https://1gr.cz/fotky/idnes/22/111/cl6/VP2974606_1370254269679f4c69839f9228682fb8fd.jpg" type="image/jpeg" />
+      <media:description>Bukayo Saka z Arsenalu (třetí zleva zády) oslavuje se spoluhráči jediný gól v utkání s Chelsea.</media:description>
+      <media:credit>AP</media:credit>
+      <media:group>
+        <media:content url="https://1gr.cz/fotky/idnes/22/111/cl6/VP297459d_506095d766d1cd47ff8bdb0d5eb29e56d8.jpg" type="image/jpeg" />
+        <media:content url="https://1gr.cz/fotky/idnes/22/111/cl6/CZO974624_12c58075b915c443e7a99842600e1a38a3.jpg" type="image/jpeg" />
+      </media:group>
+    </item>
+    <item>
+      <title>Cyklokrosař Boroš byl na ME sedmý, šampionem je Belgičan Vanthourenhout</title>
+      <link>https://www.idnes.cz/sport/cyklistika/cyklorokros-me.A221106_173200_cyklistika_ald#utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=sport&amp;utm_content=main</link>
+      <description>Český cyklokrosař Michael Boroš obsadil v závodě elitní kategorie mužů na mistrovství Evropy v belgickém Namuru sedmé místo. Zvítězil domácí závodník Michael Vanthourenhout před Nizozemcem Larsem van der Haarem a krajanem Laurensem Sweeckem.</description>
+      <pubDate>Sun, 06 Nov 2022 16:33:00 GMT</pubDate>
+      <category domain="https://sport.idnes.cz/cyklistika.aspx">Sport - Cyklistika</category>
+      <comments>https://www.idnes.cz/sport/cyklistika/cyklorokros-me.A221106_173200_cyklistika_ald/diskuse</comments>
+      <guid isPermaLink="false">A221106_173200_cyklistika_ald</guid>
+      <media:content url="https://1gr.cz/fotky/idnes/22/103/cl6/PLS96f7e2_171646_5536295.jpg" type="image/jpeg" />
+      <media:description>Michael Boroš</media:description>
+      <media:credit>MAFRA</media:credit>
+    </item>
+    <item>
+      <title>Salač v posledním závodě sezony bodoval, titul v MotoGP slaví Bagnaia</title>
+      <link>https://www.idnes.cz/sport/motorsport/salac-motogp-moto2-valencie.A221106_134953_motorsport_jrv#utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=sport&amp;utm_content=main</link>
+      <description>Mistrem světa MotoGP se stal italský jezdec Francesco Bagnaia. První titul v královské třídě si zajistil devátým místem v závěrečném závodě sezony Velké ceně Valencie. Vyhrál domácí Španěl Álex Rins. Šampionem v kategorii Moto2 se stal Španěl Augusto Fernández. K prvnímu titulu mu v posledním závodě sezony pomohl pád Japonce Aie Ogury. Český jezdec Filip Salač obsadil bodované 13. místo.
+</description>
+      <pubDate>Sun, 06 Nov 2022 14:42:08 GMT</pubDate>
+      <category domain="https://sport.idnes.cz/motorsport.aspx">Sport - Motorsport</category>
+      <comments>https://www.idnes.cz/sport/motorsport/salac-motogp-moto2-valencie.A221106_134953_motorsport_jrv/diskuse</comments>
+      <guid isPermaLink="false">A221106_134953_motorsport_jrv</guid>
+      <media:content url="https://1gr.cz/fotky/idnes/22/103/cl6/ROU96eb97_salac3.jpeg" type="image/jpeg" />
+      <media:description>Filip Salač (archivní snímek).</media:description>
+      <media:credit>Gresini Racing</media:credit>
+    </item>
+    <item>
+      <title>Mentální kouč je povinnost, říká osmnáctiletá Palicová a chce hrát jako Serena</title>
+      <link>https://www.idnes.cz/sport/tenis/rozhovor-predstaveni-barbora-palicova-turnaj-shrewsbury.A221106_132324_tenis_czo#utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=sport&amp;utm_content=main</link>
+      <description>Tento týden na turnaji v anglickém Shrewsbury poprvé porazila hráčku z elitní stovky, vyřadila Karolínu Muchovou a set vzala i Markétě Vondroušové. Kromě cenných skalpů výše postavených hráček letos získala osmnáctiletá tenistka Barbora Palicová i první dva ženské tituly. „Začátky byly hrozně těžké, ale moc mě posílily,“ rozebírá přechod z juniorské kategorie. Teď chce vyrazit do Austrálie a dále předvádět styl á la Serena.</description>
+      <pubDate>Sun, 06 Nov 2022 14:35:00 GMT</pubDate>
+      <category domain="https://sport.idnes.cz/tenis.aspx">Sport - Tenis</category>
+      <comments>https://www.idnes.cz/sport/tenis/rozhovor-predstaveni-barbora-palicova-turnaj-shrewsbury.A221106_132324_tenis_czo/diskuse</comments>
+      <guid isPermaLink="false">A221106_132324_tenis_czo</guid>
+      <media:content url="https://1gr.cz/fotky/idnes/22/111/cl6/CZO9745bd_profimedia_0700294045.jpg" type="image/jpeg" />
+      <media:description>Česká tenistka Barbora Palicová.</media:description>
+      <media:credit>MAFRA</media:credit>
+    </item>
+    <item>
+      <title>Paříž i bez zraněného Messiho zvítězila na hřišti čtvrtého Lorientu</title>
+      <link>https://www.idnes.cz/fotbal/zahranici/francouzska-ligue-1-14-kolo-paris-st-germain-messi-zraneni.A221106_152850_fot_zahranici_vp2#utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=sport&amp;utm_content=main</link>
+      <description>Fotbalisté Paris Saint-Germain vyhráli i bez zraněného Lionela Messiho ve 14. kole francouzské ligy na stadionu Lorientu 2:1. Úřadující mistři jsou na prvním místě tabulky s pětibodovým náskokem před druhým Lens.</description>
+      <pubDate>Sun, 06 Nov 2022 14:33:00 GMT</pubDate>
+      <category domain="https://fotbal.idnes.cz/fot_zahranici.aspx">Fotbal - Zahraničí</category>
+      <comments>https://www.idnes.cz/fotbal/zahranici/francouzska-ligue-1-14-kolo-paris-st-germain-messi-zraneni.A221106_152850_fot_zahranici_vp2/diskuse</comments>
+      <guid isPermaLink="false">A221106_152850_fot_zahranici_vp2</guid>
+      <media:content url="https://1gr.cz/fotky/idnes/22/111/cl6/VP2974621_41ER_FRANCE_LOR_PSG_REPORT_1106_1N.JPG" type="image/jpeg" />
+      <media:description>Pařížský fotbalista Neymar oslavuje se spoluhráčem Kylianem Mbappém svou trefu v ligovém utkání.</media:description>
+      <media:credit>Reuters</media:credit>
+    </item>
+    <item>
+      <title>Norský kouč českých házenkářek: Jsme na dobré cestě. Náš sen? Olympiáda</title>
+      <link>https://www.idnes.cz/sport/hazena/bent-dahl-trener-hazenkarek.A221106_113144_hazena_malu#utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=sport&amp;utm_content=main</link>
+      <description>Česká házenkářská reprezentace žen má za sebou první kempy i sérii utkání s novým koučem Bentem Dahlem. Pod norským vedením sehrály Češky nejprve dva přátelské zápasy se Švédskem (20:36 a 26:26) a poté tři duely na turnaji O štít města Chebu. Proti Egyptu, bundesligovému Neckarsulmeru i norskému reprezentačnímu „béčku“ dokázaly zvítězit. Jak turnaj zhodnotil nový trenér?</description>
+      <pubDate>Sun, 06 Nov 2022 14:27:00 GMT</pubDate>
+      <category domain="https://sport.idnes.cz/hazena.aspx">Sport - Házená</category>
+      <comments>https://www.idnes.cz/sport/hazena/bent-dahl-trener-hazenkarek.A221106_113144_hazena_malu/diskuse</comments>
+      <guid isPermaLink="false">A221106_113144_hazena_malu</guid>
+      <media:content url="https://1gr.cz/fotky/idnes/22/111/cl6/MAL974564_zzhazen.jpg" type="image/jpeg" />
+      <media:description>Bent Dahl, trenér českých házenkářek</media:description>
+      <media:credit>Český svaz házené</media:credit>
+    </item>
+    <item>
+      <title>Sörensena jsem nechtěl zasáhnout, nebo zranit, tvrdí plzeňský Chorý</title>
+      <link>https://www.idnes.cz/fotbal/prvni-liga/plzen-sparta-tomas-chory-hlavicka-sorensen-reakce.A221106_150716_fotbal_vp2#utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=sport&amp;utm_content=main</link>
+      <description>Plzeňský fotbalový útočník Tomáš Chorý se ohradil proti obviněním, že v sobotním ligovém duelu se Spartou (0:1) chtěl zranit stopera Asgera Sörensena.</description>
+      <pubDate>Sun, 06 Nov 2022 14:12:00 GMT</pubDate>
+      <category domain="https://fotbal.idnes.cz/fotbal.aspx">Fotbal - První liga</category>
+      <comments>https://www.idnes.cz/fotbal/prvni-liga/plzen-sparta-tomas-chory-hlavicka-sorensen-reakce.A221106_150716_fotbal_vp2/diskuse</comments>
+      <guid isPermaLink="false">A221106_150716_fotbal_vp2</guid>
+      <media:content url="https://1gr.cz/fotky/idnes/22/111/cl6/CZO97415f_190302_6906575.jpg" type="image/jpeg" />
+      <media:description>Plzeňský útočník Tomáš Chorý a sparťanský obránce Asger Sorensen se drží po střetu za hlavy.</media:description>
+      <media:credit>MAFRA</media:credit>
+    </item>
+    <item>
+      <title>Hrubec ve Švýcarsku vládne brankářům, Červenka vede ligovou produktivitu</title>
+      <link>https://www.idnes.cz/hokej/evropske-ligy/cervenka-statistiky-svycarska-liga-hokej.A221106_143648_evropa_jrv#utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=sport&amp;utm_content=main</link>
+      <description>Český hokejový útočník Roman Červenka z celku Rapperswil-Jona vládne produktivitě švýcarské ligy o bod před Finem Valtterim Filppulou ze Ženevy. Červenka si připsal ve 20 zápasech 26 bodů a s 22 asistencemi je i suverénně nejlepším nahrávačem.
+</description>
+      <pubDate>Sun, 06 Nov 2022 13:45:00 GMT</pubDate>
+      <category domain="https://hokej.idnes.cz/evropa.aspx">Hokej - Evropské ligy</category>
+      <comments>https://www.idnes.cz/hokej/evropske-ligy/cervenka-statistiky-svycarska-liga-hokej.A221106_143648_evropa_jrv/diskuse</comments>
+      <guid isPermaLink="false">A221106_143648_evropa_jrv</guid>
+      <media:content url="https://1gr.cz/fotky/idnes/19/113/cl6/TOF7f89df_cervenka.jpg" type="image/jpeg" />
+      <media:description>Roman Červenka v dresu týmu Rapperswil-Jona Lakers</media:description>
+      <media:credit>www.lakers.ch</media:credit>
+    </item>
+    <item>
+      <title>Stopka pro čtyři hokejisty. Tresty dostali bratři Musilové, Klimek i Olesz</title>
+      <link>https://www.idnes.cz/hokej/extraliga/disciplinarni-komise-trest-hokej-extraliga-musil-klimek-olesz.A221106_111831_hokej_jrv#utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=sport&amp;utm_content=main</link>
+      <description>Disciplinární komise hokejové extraligy potrestala zastavením činnosti všechny tři aktéry bitky v závěru čtvrtečního utkání 18. kola extraligy mezi Pardubicemi a Olomoucí. Útočník Hanáků Lukáš Klimek si za faul na Davida Musila čtyřikrát nezahraje stejně jako útočník Adam Musil, jenž se rozhodl nešetrný zákrok na bratra následně potrestat. David Musil, který se do bitky také zapojil, vynechá dvě utkání. Dodatečně dostal jednozápasový trest i další útočník Olomouce Rostislav Olesz, který v první třetině fauloval Tomáše Urbana.</description>
+      <pubDate>Sun, 06 Nov 2022 13:33:55 GMT</pubDate>
+      <category domain="https://hokej.idnes.cz/hokej.aspx">Hokej - Extraliga</category>
+      <comments>https://www.idnes.cz/hokej/extraliga/disciplinarni-komise-trest-hokej-extraliga-musil-klimek-olesz.A221106_111831_hokej_jrv/diskuse</comments>
+      <guid isPermaLink="false">A221106_111831_hokej_jrv</guid>
+      <media:content url="https://1gr.cz/fotky/idnes/22/111/cl6/MVO9739d5_ADA_5265kopie.jpg" type="image/jpeg" />
+      <media:description>Po Klimkovi se chvíli sápali i tři hráči Dynama. (3. listopadu 2022)</media:description>
+      <media:credit>Ladislav Adámek, HC Dynamo</media:credit>
+    </item>
+    <item>
+      <title>Horejš neměl pro vyloučeného Sejka pochopení: Takhle tam nemůže vletět</title>
+      <link>https://www.idnes.cz/fotbal/prvni-liga/horejs-jablonec-olomouc-fotbal-prvni-liga.A221106_141204_fotbal_jrv#utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=sport&amp;utm_content=main</link>
+      <description>Byl to zásadní moment zápasu. Ve 40. minutě za stavu 1:0 pro fotbalovou Olomouc jablonecký útočník Václav Sejk vletěl do souboje ve středu pole s Antonínem Růskem nesmyslně jako utržený vagon. Naštěstí Růska ve skluzu netrefil naplno, sudí Marek Radina v dobrém postavení však s červenou kartou neváhal.
+</description>
+      <pubDate>Sun, 06 Nov 2022 13:17:00 GMT</pubDate>
+      <category domain="https://fotbal.idnes.cz/fotbal.aspx">Fotbal - První liga</category>
+      <comments>https://www.idnes.cz/fotbal/prvni-liga/horejs-jablonec-olomouc-fotbal-prvni-liga.A221106_141204_fotbal_jrv/diskuse</comments>
+      <guid isPermaLink="false">A221106_141204_fotbal_jrv</guid>
+      <media:content url="https://1gr.cz/fotky/idnes/22/103/cl6/MKO971983_164345_2026757.jpg" type="image/jpeg" />
+      <media:description>Trenér Jablonce David Horejš</media:description>
+      <media:credit>MAFRA</media:credit>
+    </item>
+    <item>
+      <title>Mám trošku tmu před očima, hlesl po porážce se Spartou plzeňský Havel</title>
+      <link>https://www.idnes.cz/fotbal/prvni-liga/plzen-havel-sparta-fotbal-prvni-liga.A221106_135920_fotbal_jrv#utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=sport&amp;utm_content=main</link>
+      <description>Po zápase jen těžko hledal slova. Fotbalová Sparta v sobotním hitu 15. kola uťala Plzni parádní prvoligovou sérii 35 zápasů v řadě bez porážky, obránce Viktorie Milan Havel navíc v 82. minutě jen z pár kroků sledoval, jak trestuhodně neobsazený kapitán David Pavelka střílí po rohu vítězný gól hostů.</description>
+      <pubDate>Sun, 06 Nov 2022 13:05:00 GMT</pubDate>
+      <category domain="https://fotbal.idnes.cz/fotbal.aspx">Fotbal - První liga</category>
+      <comments>https://www.idnes.cz/fotbal/prvni-liga/plzen-havel-sparta-fotbal-prvni-liga.A221106_135920_fotbal_jrv/diskuse</comments>
+      <guid isPermaLink="false">A221106_135920_fotbal_jrv</guid>
+      <media:content url="https://1gr.cz/fotky/idnes/22/111/cl6/CZO9741ba_203758_6658720.jpg" type="image/jpeg" />
+      <media:description>Sparťan Jaroslav Zelený nakopává míč mezi bránícími Milanem Havlem (vpravo) a Erikem Jirkou z Plzně.</media:description>
+      <media:credit>MAFRA</media:credit>
+      <media:group>
+        <media:content url="https://1gr.cz/fotky/idnes/22/111/cl6/CZO9741ba_203758_6658720.jpg" type="image/jpeg" />
+        <media:content url="https://1gr.cz/fotky/idnes/22/111/cl6/CZO9741b0_202655_3731465.jpg" type="image/jpeg" />
+      </media:group>
+    </item>
+    <item>
+      <title>Fotbalisté Příbrami porazili rezervu Sparty a vévodí druhé lize o dva body</title>
+      <link>https://www.idnes.cz/fotbal/domaci-souteze/pribram-sparta-b-druha-liga-fotbal.A221106_130451_fot_dsouteze_jrv#utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=sport&amp;utm_content=main</link>
+      <description>Fotbalisté Příbrami zvítězili v 15. kole druhé ligy na hřišti B-týmu Sparty 3:0 a vedou tabulku o dva body před Líšní. Dvě branky vstřelil kapitán hostů Tomáš Wágner. Středočeši v soutěži potřetí za sebou vyhráli s čistým kontem a prodloužili sérii bez porážky na 13 zápasů.</description>
+      <pubDate>Sun, 06 Nov 2022 12:04:00 GMT</pubDate>
+      <category domain="https://fotbal.idnes.cz/fot_dsouteze.aspx">Fotbal - Domácí soutěže</category>
+      <comments>https://www.idnes.cz/fotbal/domaci-souteze/pribram-sparta-b-druha-liga-fotbal.A221106_130451_fot_dsouteze_jrv/diskuse</comments>
+      <guid isPermaLink="false">A221106_130451_fot_dsouteze_jrv</guid>
+      <media:content url="https://1gr.cz/fotky/idnes/22/083/cl6/TEN959965_211846_6329104.jpg" type="image/jpeg" />
+      <media:description>Momentka ze zápasu Příbrami (ilustrační snímek)</media:description>
+      <media:credit>MAFRA</media:credit>
+    </item>
+    <item>
+      <title>Kovář skončil na MS desátý v běhu do vrchu nahoru-dolů, Hrochová jedenáctá</title>
+      <link>https://www.idnes.cz/sport/atletika/kovar-hrochova-mistrovstvi-sveta-horske-a-trailove-behy.A221106_121913_atletika_jrv#utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=sport&amp;utm_content=main</link>
+      <description>Český reprezentant Jáchym Kovář uzavřel mistrovství světa v horských a trailových bězích v Thajsku desátým místem v závodě v běhu do vrchu nahoru-dolů, dlouhém 11,2 kilometru. Těsně za elitní desítkou skončil devátý muž pátečního klasického závodu do vrchu Marek Chrascina, mezi ženami obsadila rovněž 11. pozici vytrvalkyně Tereza Hrochová.</description>
+      <pubDate>Sun, 06 Nov 2022 11:36:00 GMT</pubDate>
+      <category domain="https://sport.idnes.cz/atletika.aspx">Sport - Atletika</category>
+      <comments>https://www.idnes.cz/sport/atletika/kovar-hrochova-mistrovstvi-sveta-horske-a-trailove-behy.A221106_121913_atletika_jrv/diskuse</comments>
+      <guid isPermaLink="false">A221106_121913_atletika_jrv</guid>
+      <media:content url="https://1gr.cz/fotky/idnes/22/111/cl6/JRV974571_profimedia_0667670127.jpg" type="image/jpeg" />
+      <media:description>Jáchym Kovář</media:description>
+      <media:credit>ČTK</media:credit>
+    </item>
+    <item>
+      <title>Další venkovní test Baníku. Slavia doma dominuje, upozorňuje Frydrych</title>
+      <link>https://www.idnes.cz/fotbal/prvni-liga/banik-ostrava-slavia-praha-michal-frydrych.A221105_691135_fotbal_czo#utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=sport&amp;utm_content=main</link>
+      <description>Plzni minule venku vzdorovali, byť prohráli 1:3. A nyní je čeká další silný sok – Slavia Praha. Fotbalisté ostravského Baníku v 15. kole první ligy nastoupí v Edenu v neděli od 18.00. Na utkání se obzvlášť těší ostravský stoper Michal Frydrych, který ve Slávii působil pět let a získal s ní tři tituly.</description>
+      <pubDate>Sun, 06 Nov 2022 11:25:00 GMT</pubDate>
+      <category domain="https://fotbal.idnes.cz/fotbal.aspx">Fotbal - První liga</category>
+      <comments>https://www.idnes.cz/fotbal/prvni-liga/banik-ostrava-slavia-praha-michal-frydrych.A221105_691135_fotbal_czo/diskuse</comments>
+      <guid isPermaLink="false">A221105_691135_fotbal_czo</guid>
+      <media:content url="https://1gr.cz/fotky/idnes/22/103/cl6/MKO971965_160858_2711699.jpg" type="image/jpeg" />
+      <media:description>Tomáš Ladra z Mladé Boleslavi u balonu, brání ho Michal Frydrych (uprostřed) a Srdjan Plavšič z Ostravy.</media:description>
+      <media:credit>MAFRA</media:credit>
+    </item>
+    <item>
+      <title>Někdy milovat znamená odejít! Piqué, ikona Barcelony, zamával na rozloučenou</title>
+      <link>https://www.idnes.cz/fotbal/zahranici/gerard-pique-konec-kariery-barcelona.A221106_115754_fot_zahranici_vp2#utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=sport&amp;utm_content=main</link>
+      <description>Sám sobě před rokem slíbil, že až nebude stačit, zabalí to. „Rychlejší už nebudu, ale pořád se můžu měřit s nejlepšími, takže se necítím méněcenný,“ řekl před třinácti měsíci Gerard Piqué, jeden z nejúspěšnější obránců fotbalové historie. V sobotu to zabalil. V pětatřiceti.</description>
+      <pubDate>Sun, 06 Nov 2022 11:23:00 GMT</pubDate>
+      <category domain="https://fotbal.idnes.cz/fot_zahranici.aspx">Fotbal - Zahraničí</category>
+      <comments>https://www.idnes.cz/fotbal/zahranici/gerard-pique-konec-kariery-barcelona.A221106_115754_fot_zahranici_vp2/diskuse</comments>
+      <guid isPermaLink="false">A221106_115754_fot_zahranici_vp2</guid>
+      <media:content url="https://1gr.cz/fotky/idnes/22/111/cl6/VP2974551_17eb73ca51a5a6401dbd566c2f84ab18ee.jpg" type="image/jpeg" />
+      <media:description>Fotbalový obránce Gerard Piqué se loučí s Barcelonou i kariérou.</media:description>
+      <media:credit>AP</media:credit>
+      <media:group>
+        <media:content url="https://1gr.cz/fotky/idnes/22/031/cl6/JRV91e47b_28CER_SPAIN_ELC_FCB_REPORT_0306_1A.JPG" type="image/jpeg" />
+        <media:content url="https://1gr.cz/fotky/idnes/21/022/cl6/ELV897b49_6f7f9ee861e545a2a1d943db48b33dd1_0.jpg" type="image/jpeg" />
+      </media:group>
+    </item>
+    <item>
+      <title>Konec věrnosti. Čech přestoupil za McDavidem. Chystá se rozdat oblečení</title>
+      <link>https://www.idnes.cz/hokej/nhl/milan-tichy-skaut-columbus-edmonton.A221104_182746_nhl_rou#utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=sport&amp;utm_content=main</link>
+      <description>Na jednu stranu ho potěšilo, že jej Edmonton Oilers přetahují na vyšší pozici. Zároveň Milan Tichý najednou zaváhal: „Počkej, počkej!“ Třiadvacet let sledoval hokejové talenty pro Columbus Blue Jackets. A teď je měl opustit. Příběh někdejšího znamenitého beka, jemuž zkrátil kariéru faul slavného Brendana Shanahana, spěl do další pozoruhodné kapitoly.</description>
+      <pubDate>Sun, 06 Nov 2022 11:00:00 GMT</pubDate>
+      <category domain="https://hokej.idnes.cz/nhl.aspx">Hokej - NHL</category>
+      <comments>https://www.idnes.cz/hokej/nhl/milan-tichy-skaut-columbus-edmonton.A221104_182746_nhl_rou/diskuse</comments>
+      <guid isPermaLink="false">A221104_182746_nhl_rou</guid>
+      <media:content url="https://1gr.cz/fotky/idnes/20/053/cl6/PAR839141_183658_11799136_1.jpg" type="image/jpeg" />
+      <media:description>Milan Tichý</media:description>
+      <media:credit>Milena Sojková</media:credit>
+    </item>
+    <item>
+      <title>Znovu o zlato. Čeští inline hokejisté porazili v semifinále MS Francii</title>
+      <link>https://www.idnes.cz/sport/ostatni/inline-hokej-ms.A221105_233337_sporty_ald#utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=sport&amp;utm_content=main</link>
+      <description>Čeští inline hokejisté zvítězili v semifinále mistrovství světa organizace FIRS v Buenos Aires nad Francií 4:3 a budou v neděli bojovat o obhajobu titulu z loňska z italského Roccarasa proti vítězi duelu mezi Spojenými státy americkými a Itálií. Tým trenéra Martina Mecery má jistou sedmnáctou medaili za sebou. Finále proti Itálii začne ve 23:00 SEČ.</description>
+      <pubDate>Sun, 06 Nov 2022 10:48:07 GMT</pubDate>
+      <category domain="https://sport.idnes.cz/sporty.aspx">Sport - Ostatní sporty</category>
+      <comments>https://www.idnes.cz/sport/ostatni/inline-hokej-ms.A221105_233337_sporty_ald/diskuse</comments>
+      <guid isPermaLink="false">A221105_233337_sporty_ald</guid>
+      <media:content url="https://1gr.cz/fotky/idnes/18/074/cl6/TEN7502ec_bernaddata.jpg" type="image/jpeg" />
+      <media:description>2018. Jakub Bernad oslavil s českým národním týmem titul mistra světa v inline hokeji. Co letos?</media:description>
+      <media:credit>MAFRA</media:credit>
+    </item>
+    <item>
+      <title>Hradecký plán na Liberec? Lépe se hýbat a hlavně pohlídat van Burena</title>
+      <link>https://www.idnes.cz/fotbal/prvni-liga/hradec-kralove-liberec-mick-van-buren-stanislav-hejkal.A221105_691050_fotbal_czo#utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=sport&amp;utm_content=main</link>
+      <description>Jaké by mohly být účinné recepty pro fotbalový Hradec v předposledním podzimním vystoupení první ligy? Jeden z nich pravděpodobně bude dát si pozor na útočníka Micka van Burena a nedostat gól.</description>
+      <pubDate>Sun, 06 Nov 2022 10:45:00 GMT</pubDate>
+      <category domain="https://fotbal.idnes.cz/fotbal.aspx">Fotbal - První liga</category>
+      <comments>https://www.idnes.cz/fotbal/prvni-liga/hradec-kralove-liberec-mick-van-buren-stanislav-hejkal.A221105_691050_fotbal_czo/diskuse</comments>
+      <guid isPermaLink="false">A221105_691050_fotbal_czo</guid>
+      <media:content url="https://1gr.cz/fotky/idnes/22/103/cl6/PLS96f794_161743_7692572.jpg" type="image/jpeg" />
+      <media:description>Momentka ze zápasu mezi Českými Budějovicemi a  Hradcem Králové.</media:description>
+      <media:credit>MAFRA</media:credit>
+    </item>
+  </channel>
+</rss>

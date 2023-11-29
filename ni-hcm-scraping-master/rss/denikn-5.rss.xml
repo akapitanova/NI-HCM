@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://denikn.cz/wp-content/themes/dn-2/rss2_style.xsl" ?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>5. stránka &#8211; Deník N</title>
+	<atom:link href="https://denikn.cz/feed?paged=5" rel="self" type="application/rss+xml" />
+	<link>https://denikn.cz</link>
+	<description>Nezávislý český deník</description>
+	<lastBuildDate>Fri, 04 Nov 2022 07:46:41 +0000</lastBuildDate>
+	<language>cs</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9.3</generator>
+	<item>
+		<title>Jaz: Kam na hrad</title>
+		<link>https://denikn.cz/1001093/jaz-kam-na-hrad/</link>
+		
+		<dc:creator><![CDATA[Jaz]]></dc:creator>
+		<pubDate>Thu, 03 Nov 2022 12:21:51 +0000</pubDate>
+				<category><![CDATA[Hlavní]]></category>
+		<category><![CDATA[Jaz]]></category>
+		<guid isPermaLink="false">https://denikn.cz/?p=1001093</guid>
+
+					<description><![CDATA[Pokud máte připomínku nebo jste našli chybu, napište na editori@denikn.cz.]]></description>
+		
+		
+		
+		<enclosure url="https://img.novydenik.com/wp-static/2022/11/Jaz221104.jpg?fm%3Djpg%26q%3D85%26w%3D690" type="image/jpeg" length="1791097" />	</item>
+		<item>
+		<title>Studio N: Klima předbíhá i&#160;ty nejčernější předpovědi</title>
+		<link>https://denikn.cz/1000529/studio-n-klima-predbiha-i-ty-nejcernejsi-predpovedi/</link>
+		
+		<dc:creator><![CDATA[Filip Titlbach]]></dc:creator>
+		<pubDate>Thu, 03 Nov 2022 11:59:42 +0000</pubDate>
+				<category><![CDATA[Podcast Studio N]]></category>
+		<category><![CDATA[Svět]]></category>
+		<category><![CDATA[Věda]]></category>
+		<category><![CDATA[Ekologie]]></category>
+		<category><![CDATA[Studio N]]></category>
+		<category><![CDATA[Změna klimatu]]></category>
+		<guid isPermaLink="false">https://denikn.cz/?p=1000529</guid>
+
+					<description><![CDATA[Vědci poslali politikům jasný vzkaz: Klimatické dohody nefungují, závislosti na fosilních palivech se nám nedaří zbavit a&#160;planeta je v&#160;ještě horším stavu, než si myslíme. Filip Titlbach mluví ve Studiu N s&#160;vědeckým redaktorem Petrem Koubským.]]></description>
+		
+		
+		
+		<enclosure url="https://img.novydenik.com/wp-static/2022/08/nasa-vhSz50AaFAs-unsplash.jpg?fm%3Djpg%26q%3D85%26w%3D690" type="image/jpeg" length="1313143" />	</item>
+		<item>
+		<title>Německý vztah k Číně zvedá mnohá evropská obočí. Scholz letí pod palbou kritiky do Pekingu</title>
+		<link>https://denikn.cz/1000572/nemecky-vztah-k-cine-zveda-mnoha-evropska-oboci-scholz-leti-pod-palbou-kritiky-do-pekingu/</link>
+		
+		<dc:creator><![CDATA[Anita Mejzrová]]></dc:creator>
+		<pubDate>Thu, 03 Nov 2022 11:50:40 +0000</pubDate>
+				<category><![CDATA[Hlavní]]></category>
+		<category><![CDATA[Svět]]></category>
+		<category><![CDATA[Čína]]></category>
+		<category><![CDATA[Evropská unie]]></category>
+		<category><![CDATA[Finance]]></category>
+		<category><![CDATA[Německo]]></category>
+		<category><![CDATA[Ruská válka na Ukrajině]]></category>
+		<category><![CDATA[Rusko]]></category>
+		<guid isPermaLink="false">https://denikn.cz/?p=1000572</guid>
+
+					<description><![CDATA[Německý kancléř Olaf Scholz odlétá na návštěvu Pekingu. Nejenže bude prvním lídrem členské země Evropské unie, který tak učiní od začátku pandemie covidu-19 i znovuzvolení Si Ťin-pchinga do čela komunistické strany na nezvyklé třetí funkční období; rovněž do Číny cestuje v době, kdy čelí kritice mimo jiné za odprodej velkého podílu v největším německém přístavu čínské firmě. Současně také možná vysílá signál o tom, že Německo si jde v čínské politice vlastní cestou.]]></description>
+		
+		
+		
+		<enclosure url="https://img.novydenik.com/wp-static/2022/10/A14V1515.jpg?fm%3Djpg%26q%3D85%26w%3D690" type="image/jpeg" length="1061664" />	</item>
+		<item>
+		<title>Pozdní probuzení Německa</title>
+		<link>https://denikn.cz/1000241/pozdni-probuzeni-nemecka/</link>
+		
+		<dc:creator><![CDATA[Edward Lucas]]></dc:creator>
+		<pubDate>Thu, 03 Nov 2022 11:01:55 +0000</pubDate>
+				<category><![CDATA[Hlavní]]></category>
+		<category><![CDATA[Komentáře]]></category>
+		<category><![CDATA[Kontext N]]></category>
+		<category><![CDATA[Evropská unie]]></category>
+		<category><![CDATA[Německo]]></category>
+		<category><![CDATA[Ruská válka na Ukrajině]]></category>
+		<category><![CDATA[Rusko]]></category>
+		<category><![CDATA[Ukrajina]]></category>
+		<guid isPermaLink="false">https://denikn.cz/?p=1000241</guid>
+
+					<description><![CDATA[Komentář Edwarda Lucase: Ti, kdo se soustředí pouze na nedostatky Německa, by se měli zamyslet nad tím, jak by na tom Evropa byla, kdyby největší zemi Evropské unie řídil Gerhard Schröder nebo někdo jemu podobný. Chvála za probuzení Německa se ale mísí s oprávněným rozhořčením.]]></description>
+		
+		
+		
+		<enclosure url="https://img.novydenik.com/wp-static/2022/11/profimedia-0733160641.jpg?fm%3Djpg%26q%3D85%26w%3D690" type="image/jpeg" length="272006" />	</item>
+		<item>
+		<title>Školy by mohly ušetřit dvě miliardy, píšou ekonomové. Sdílení administrativy má uvolnit ruce ředitelům</title>
+		<link>https://denikn.cz/1000251/skoly-by-mohly-usetrit-dve-miliardy-pisou-ekonomove-sdileni-administrativy-ma-uvolnit-ruce-reditelum/</link>
+		
+		<dc:creator><![CDATA[Petr Novák]]></dc:creator>
+		<pubDate>Thu, 03 Nov 2022 11:00:02 +0000</pubDate>
+				<category><![CDATA[Audio]]></category>
+		<category><![CDATA[Česko]]></category>
+		<category><![CDATA[Ekonomika]]></category>
+		<category><![CDATA[Hlavní]]></category>
+		<category><![CDATA[Školství]]></category>
+		<guid isPermaLink="false">https://denikn.cz/?p=1000251</guid>
+
+					<description><![CDATA[Menší mateřské a základní školy by mohly vzájemným sdílením provozních a administrativních činností ušetřit více než dvě miliardy ročně. Ve své studii k tomu dospěli statistici z Vysoké školy ekonomické.]]></description>
+		
+		
+		
+		<enclosure url="https://img.novydenik.com/wp-static/2022/11/profimedia-0669927020.jpg?fm%3Djpg%26q%3D85%26w%3D690" type="image/jpeg" length="246075" />	</item>
+		<item>
+		<title>Vize apokalypsy před 500 lety rozhýbala dějiny, dnes ale ztrácí na přitažlivosti</title>
+		<link>https://denikn.cz/993259/vize-apokalypsy-pred-500-lety-rozhybala-dejiny-dnes-ale-ztraci-na-pritazlivosti/</link>
+		
+		<dc:creator><![CDATA[Martin M. Šimečka]]></dc:creator>
+		<pubDate>Thu, 03 Nov 2022 10:54:28 +0000</pubDate>
+				<category><![CDATA[Hlavní]]></category>
+		<category><![CDATA[Kontext N]]></category>
+		<category><![CDATA[Historie]]></category>
+		<guid isPermaLink="false">https://denikn.cz/?p=993259</guid>
+
+					<description><![CDATA[Období mezi lety 1500 a 1700 bylo silně ovlivněno myšlenkou blížícího se konce světa. Paradoxně právě očekávání apokalypsy přispělo ke zrodu moderní Evropy.]]></description>
+		
+		
+		
+		<enclosure url="https://img.novydenik.com/wp-static/2022/10/1116px-JohnMartin-TheGreatDayofHisWrath-GoogleArtProject.jpg?fm%3Djpg%26q%3D85%26w%3D690" type="image/jpeg" length="218434" />	</item>
+		<item>
+		<title>„Edíčku, ty bys chtěl být holčičkou?“ A já řekl ano</title>
+		<link>https://denikn.cz/998099/edicku-ty-bys-chtel-byt-holcickou-a-ja-rekl-ano/</link>
+		
+		<dc:creator><![CDATA[Renata Kalenská]]></dc:creator>
+		<pubDate>Thu, 03 Nov 2022 10:39:15 +0000</pubDate>
+				<category><![CDATA[Česko]]></category>
+		<category><![CDATA[LGBTQ]]></category>
+		<category><![CDATA[Rozhovory]]></category>
+		<guid isPermaLink="false">https://denikn.cz/?p=998099</guid>
+
+					<description><![CDATA[„Přišli pánové, jestli si mohou přisednout. Říkám: ‚Dobrý večer, samozřejmě.‘ A oni na mě začali řvát: ‚Vy jste buzerant?‘ V tu chvíli jsem se naprosto vypnul. Úplně jsem přestal reagovat, dělal jsem, že tam nejsem.“ Eda Štréblů ve svých čtrnácti letech udělal coming out. V rozhovoru pro Deník N popisuje, co kvůli tomu zažíval a jaké zkušenosti si odnesl ze života v Izraeli, v Praze a čerstvě i z Ústí nad Labem.]]></description>
+		
+		
+		
+		<enclosure url="https://img.novydenik.com/wp-static/2022/10/Eduard-Streblu-6.jpg?fm%3Djpg%26q%3D85%26w%3D690" type="image/jpeg" length="2679046" />	</item>
+		<item>
+		<title>Aréna N: Všichni sníme o společnosti, ve které nebude nutné dělat coming outy, říká youtuber Kovy</title>
+		<link>https://denikn.cz/1000489/arena-n-vsichni-snime-o-spolecnosti-ve-ktere-nebude-nutne-delat-coming-outy-rika-youtuber-kovy/</link>
+		
+		<dc:creator><![CDATA[Renata Kalenská]]></dc:creator>
+		<pubDate>Thu, 03 Nov 2022 07:26:19 +0000</pubDate>
+				<category><![CDATA[Česko]]></category>
+		<category><![CDATA[Podcast Aréna N]]></category>
+		<category><![CDATA[Aréna N]]></category>
+		<category><![CDATA[LGBTQ]]></category>
+		<guid isPermaLink="false">https://denikn.cz/?p=1000489</guid>
+
+					<description><![CDATA[Po dvojnásobné vraždě v bratislavském klubu Tepláreň se jedním z nejdiskutovanějších témat v českých médiích opět stalo manželství pro všechny. Známý youtuber Karel Kovy Kovář v Aréně N vysvětluje, proč by politici měli prosadit, aby se v této otázce stejnopohlavní páry necítily, jako by patřily do druhé kategorie. Sám Kovy by o uzavření manželství se svým partnerem velmi stál.]]></description>
+		
+		
+		
+		<enclosure url="https://img.novydenik.com/wp-static/2022/11/Karel-Kovar-Kovy-1.jpg?fm%3Djpg%26q%3D85%26w%3D690" type="image/jpeg" length="4423739" />	</item>
+		<item>
+		<title>Planeta Země je na tom hůř, než si myslíme. Podle vědců není cesty zpět. Přizpůsobíme se, nebo vyhyneme</title>
+		<link>https://denikn.cz/1000258/planeta-zeme-je-na-tom-hur-nez-si-myslime-podle-vedcu-neni-cesty-zpet-prizpusobime-se-nebo-vyhyneme/</link>
+		
+		<dc:creator><![CDATA[Petr Koubský]]></dc:creator>
+		<pubDate>Thu, 03 Nov 2022 06:21:55 +0000</pubDate>
+				<category><![CDATA[Audio]]></category>
+		<category><![CDATA[Věda]]></category>
+		<category><![CDATA[Změna klimatu]]></category>
+		<guid isPermaLink="false">https://denikn.cz/?p=1000258</guid>
+
+					<description><![CDATA[Klimatické dohody nefungují, závislosti na fosilních palivech se nám nedaří zbavit, planeta je v ještě horším stavu, než si myslíme. Tak zní vzkaz vědců politikům v předvečer summitu COP27.]]></description>
+		
+		
+		
+		<enclosure url="https://img.novydenik.com/wp-static/2022/11/AdobeStock355820739jpeg.jpg?fm%3Djpg%26q%3D85%26w%3D690" type="image/jpeg" length="5896195" />	</item>
+		<item>
+		<title>Integrace znamenala, že budeš dělat, co po tobě chtějí gádžové, říká Patrik Banga, autor knihy o&#160;romském dětství na Žižkově</title>
+		<link>https://denikn.cz/998106/integrace-znamenala-ze-budes-delat-co-po-tobe-chteji-gadzove-rika-patrik-banga-autor-knihy-o-romskem-detstvi-na-zizkove/</link>
+		
+		<dc:creator><![CDATA[Barbora Mašát Janáková]]></dc:creator>
+		<pubDate>Thu, 03 Nov 2022 06:06:58 +0000</pubDate>
+				<category><![CDATA[Česko]]></category>
+		<category><![CDATA[Hlavní]]></category>
+		<category><![CDATA[Kultura]]></category>
+		<category><![CDATA[Literatura]]></category>
+		<category><![CDATA[Rasismus a xenofobie]]></category>
+		<category><![CDATA[Rozhovory]]></category>
+		<guid isPermaLink="false">https://denikn.cz/?p=998106</guid>
+
+					<description><![CDATA[Novinář a podnikatel Patrik Banga napsal knihu Skutečná cesta ven, která popisuje prvních sedmnáct let jeho života a ukazuje, jak dopadl kapitalismus na Romy. Zároveň v ní barvitě vykresluje 90. léta na Žižkově a v centru Prahy i příležitosti, kterých se mu dostalo. V rozhovoru pro Deník N přiznává, že ani po třiceti letech nemá důvěru v policii. „Před třemi lety jsem se dostal do konfliktu s policistou v Ústeckém kraji, který mě kontroloval v den smrti mé maminky. Kontrola začínala slovy: ‚Kde jsi ukrad' to auto?‘“ popisuje konflikt novinář. Situace pro Romy se podle něj zlepší za čtyři až pět generací.]]></description>
+		
+		
+		
+		<enclosure url="https://img.novydenik.com/wp-static/2022/10/5R0A6599.jpg?fm%3Djpg%26q%3D85%26w%3D690" type="image/jpeg" length="2607566" />	</item>
+	</channel>
+</rss>

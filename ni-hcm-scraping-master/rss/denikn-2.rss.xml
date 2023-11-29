@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://denikn.cz/wp-content/themes/dn-2/rss2_style.xsl" ?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>2. stránka &#8211; Deník N</title>
+	<atom:link href="https://denikn.cz/feed?paged=2" rel="self" type="application/rss+xml" />
+	<link>https://denikn.cz</link>
+	<description>Nezávislý český deník</description>
+	<lastBuildDate>Fri, 04 Nov 2022 20:47:38 +0000</lastBuildDate>
+	<language>cs</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9.3</generator>
+	<item>
+		<title>Vývoj bojů (253. den): Ruský útok u Vuhledaru zastavily bahno a těžké ztráty. Námořní pěchota ztratila za dva dny více lidí než v Čečensku</title>
+		<link>https://denikn.cz/1001348/vyvoj-boju-253-den-rusky-utok-u-vuhledaru-zastavily-bahno-a-tezke-ztraty-namorni-pechota-ztratila-za-dva-dny-vice-lidi-nez-v-cecensku/</link>
+		
+		<dc:creator><![CDATA[Roman Pataj, Denník N]]></dc:creator>
+		<pubDate>Fri, 04 Nov 2022 16:32:46 +0000</pubDate>
+				<category><![CDATA[Svět]]></category>
+		<category><![CDATA[Ruská válka na Ukrajině]]></category>
+		<category><![CDATA[Vývoj bojů na Ukrajině]]></category>
+		<guid isPermaLink="false">https://denikn.cz/?p=1001348</guid>
+
+					<description><![CDATA[Nový ruský útok se utopil v krvi a bahně, velitel praporu Vostok vysvětluje, co se stalo. V Chersonu se něco děje, ale nic nenasvědčuje rychlému ústupu Rusů. Extremista Dugin chodí do Kremlu, to není dobré znamení. Mapa dne –⁠ Cherson a okolí. Videa dne –⁠ Zuzana 2 se poprvé objevuje v boji; opuštěný ruský checkpoint v Chersonu; v zajateckém táboře u Moskvy nutí Ukrajince [&#8230;]]]></description>
+		
+		
+		
+		<enclosure url="https://img.novydenik.com/wp-static/2022/11/titulne-foto.jpg?fm%3Djpg%26q%3D85%26w%3D690" type="image/jpeg" length="233590" />	</item>
+		<item>
+		<title>Vzpomínky z Buči lidi stále pronásledují. Starosta: Je skoro nemožné zapomenout, úplně nemožné odpustit</title>
+		<link>https://denikn.cz/1002090/vzpominky-z-buci-lidi-stale-pronasleduji-starosta-je-skoro-nemozne-zapomenout-uplne-nemozne-odpustit/</link>
+		
+		<dc:creator><![CDATA[Petr Vodseďálek]]></dc:creator>
+		<pubDate>Fri, 04 Nov 2022 15:27:41 +0000</pubDate>
+				<category><![CDATA[Svět]]></category>
+		<category><![CDATA[Rozhovory]]></category>
+		<category><![CDATA[Ruská válka na Ukrajině]]></category>
+		<category><![CDATA[Ukrajina]]></category>
+		<guid isPermaLink="false">https://denikn.cz/?p=1002090</guid>
+
+					<description><![CDATA[Anatolij Fedoruk je starostou Buči nedaleko Kyjeva dlouhých 24 let. Nejtěžší chvíle ve vedení města zažíval během letošní okupace města a krátce po odchodu ruských vojáků, kteří za sebou zanechali nejen rozbité město, ale také ulice plné mrtvol. Z klidného předměstí hlavního města Ukrajiny, ze kterého válka rozpoutaná Ruskem udělala válečnou zónu, se na čas stal symbol celého konfliktu. Fotografie ulic plných zabitých civilistů a zničeného města obletěly svět. „Stále se ptáme, jak je možné, že jsme se v Evropě v 21. století ocitli ve válce,“ říká v rozhovoru Anatolij Fedoruk.]]></description>
+		
+		
+		
+		<enclosure url="https://img.novydenik.com/wp-static/2022/11/WhatsApp-Image-2022-11-04-at-094825jpeg.jpg?fm%3Djpg%26q%3D85%26w%3D690" type="image/jpeg" length="162019" />	</item>
+		<item>
+		<title>Studio N: Slovensko, sklad ruských zbraní</title>
+		<link>https://denikn.cz/1002243/studio-n-slovensko-sklad-ruskych-zbrani/</link>
+		
+		<dc:creator><![CDATA[Filip Titlbach]]></dc:creator>
+		<pubDate>Fri, 04 Nov 2022 15:03:26 +0000</pubDate>
+				<category><![CDATA[Podcast Studio N]]></category>
+		<category><![CDATA[Svět]]></category>
+		<category><![CDATA[Ruská válka na Ukrajině]]></category>
+		<category><![CDATA[Rusko]]></category>
+		<category><![CDATA[Slovensko]]></category>
+		<category><![CDATA[Studio N]]></category>
+		<guid isPermaLink="false">https://denikn.cz/?p=1002243</guid>
+
+					<description><![CDATA[Slovenští celníci pouštějí do Ruska a Íránu tisíce kusů zboží, které Rusové mohou využít k výrobě těžkých zbraní. Ve společné investigaci to zjistil český a slovenský Deník N. Kde se stala chyba? Je tedy Slovensko fakticky ruským spojencem ve válce na Ukrajině? Hostem podcastu je investigativní reportér Deníku N Lukáš Prchal.]]></description>
+		
+		
+		
+		<enclosure url="https://img.novydenik.com/wp-static/2022/11/uraljpeg.jpg?fm%3Djpg%26q%3D85%26w%3D690" type="image/jpeg" length="156328" />	</item>
+		<item>
+		<title>Kúty: migranti zkoušejí přejít do České republiky směr Německo, jsou vráceni, přespí v táboře a zkusí to znovu</title>
+		<link>https://denikn.cz/1002089/kuty-migranti-zkouseji-prejit-do-ceske-republiky-smer-nemecko-jsou-vraceni-prespi-v-tabore-a-zkusi-to-znovu/</link>
+		
+		<dc:creator><![CDATA[Lucia Osvaldová, Denník N]]></dc:creator>
+		<pubDate>Fri, 04 Nov 2022 14:46:49 +0000</pubDate>
+				<category><![CDATA[Česko]]></category>
+		<category><![CDATA[Svět]]></category>
+		<category><![CDATA[Maďarsko]]></category>
+		<category><![CDATA[Migrace a uprchlíci]]></category>
+		<category><![CDATA[Reportáž]]></category>
+		<category><![CDATA[Slovensko]]></category>
+		<guid isPermaLink="false">https://denikn.cz/?p=1002089</guid>
+
+					<description><![CDATA[Několikatisícová obec Kúty na slovensko-české hranici je už několik týdnů nárazníkovou zónou, ve které místní sledují, jak na Slovensku končí uprchlíci na své cestě do České republiky za vysněnou destinací Německo. Přinášíme reportáž Denníku N.]]></description>
+		
+		
+		
+		<enclosure url="https://img.novydenik.com/wp-static/2022/11/Migranti-v-Kutech-na-slovensko-ceske-hranici-Foto-Tomas-Hrivnak-Dennik-N.jpg?fm%3Djpg%26q%3D85%26w%3D690" type="image/jpeg" length="4320991" />	</item>
+		<item>
+		<title>Umí školy ocenit kreativitu dětí? Čtyřka z testu o příslovích rozdělila rodiče i učitele</title>
+		<link>https://denikn.cz/1001186/umi-skoly-ocenit-kreativitu-deti-ctyrka-z-testu-o-prislovich-rozdelila-rodice-a-ucitele/</link>
+		
+		<dc:creator><![CDATA[Iva Bezděková]]></dc:creator>
+		<pubDate>Fri, 04 Nov 2022 13:34:11 +0000</pubDate>
+				<category><![CDATA[Audio]]></category>
+		<category><![CDATA[Česko]]></category>
+		<category><![CDATA[Školství]]></category>
+		<guid isPermaLink="false">https://denikn.cz/?p=1001186</guid>
+
+					<description><![CDATA[Ševče, drž nám housle. Nechval dne beze mě. Host do domu, papír do krbu. Po bitvě je spousta mrtvých. Svérázně vyplněný test ze znalosti přísloví neznámého žáka či žákyně české školy na sociálních sítích mnohé pobavil, jiné nadzvedl přístupem školy (žák dostal čtyřku). Otevřel také diskusi, jak by se taková látka měla učit a kde začíná a končí prostor pro vlastní invenci.]]></description>
+		
+		
+		
+		<enclosure url="https://img.novydenik.com/wp-static/2022/11/profimedia-0675431557.jpg?fm%3Djpg%26q%3D85%26w%3D690" type="image/jpeg" length="193455" />	</item>
+		<item>
+		<title>Kanye West, jeho běsi a „gentrifikace“ nemoci</title>
+		<link>https://denikn.cz/996909/kanye-west-jeho-besi-a-gentrifikace-nemoci/</link>
+		
+		<dc:creator><![CDATA[Ondřej Štindl]]></dc:creator>
+		<pubDate>Fri, 04 Nov 2022 13:09:43 +0000</pubDate>
+				<category><![CDATA[Hlavní]]></category>
+		<category><![CDATA[Kontext N]]></category>
+		<category><![CDATA[Hudba]]></category>
+		<guid isPermaLink="false">https://denikn.cz/?p=996909</guid>
+
+					<description><![CDATA[Kanye West je globálně známý a velice bohatý člověk. Také je to duševně nemocný člověk. Má se to brát v potaz, když se dopouští skandálních antisemitských výroků? Dle mediálních reakcí na Westovy výlevy asi ne. Vypovídá to cosi nejen o Westovi a nechutnosti jeho stanovisek, ale i rozpornosti vztahu dnešního Západu k duševní nemoci. ]]></description>
+		
+		
+		
+		<enclosure url="https://img.novydenik.com/wp-static/2022/11/KanyeWestSaintPabloTourTDGarden201610-e1667556239447.jpg?fm%3Djpg%26q%3D85%26w%3D690" type="image/jpeg" length="189261" />	</item>
+		<item>
+		<title>Výjimečný happy end z Ukrajiny. Mluvili jsme s Bohdanem, který přežil boj o Azovstal i ruské zajetí</title>
+		<link>https://denikn.cz/1000627/vyjimecny-happy-end-z-ukrajiny-mluvili-jsme-s-bohdanem-ktery-prezil-boj-o-azovstal-i-ruske-zajeti/</link>
+		
+		<dc:creator><![CDATA[Petra Procházková]]></dc:creator>
+		<pubDate>Fri, 04 Nov 2022 11:29:57 +0000</pubDate>
+				<category><![CDATA[Svět]]></category>
+		<category><![CDATA[Ruská válka na Ukrajině]]></category>
+		<category><![CDATA[Rusko]]></category>
+		<category><![CDATA[Ukrajina]]></category>
+		<guid isPermaLink="false">https://denikn.cz/?p=1000627</guid>
+
+					<description><![CDATA[Není moc příběhů z dnešní Ukrajiny napadené Ruskem, které by měly šťastný konec. Tenhle je výjimečný. Nejen happy endem, ale i urputností jeho hlavní hrdinky. Bohdan a Natalija jsou zase spolu. Nemají náladu na oslavy ani novináře. Odjeli do Bohdanova rodného města, kde se nakonec reportérkou Deníku N nechali přesvědčit k telemostu Kyjev–Sumy.]]></description>
+		
+		
+		
+		<enclosure url="https://img.novydenik.com/wp-static/2022/11/A14V51351.jpg?fm%3Djpg%26q%3D85%26w%3D690" type="image/jpeg" length="535169" />	</item>
+		<item>
+		<title>Do insolvence míří další firma z okruhu padlého finančního impéria Fair Credit</title>
+		<link>https://denikn.cz/1002018/do-insolvence-miri-dalsi-firma-z-okruhu-padleho-financniho-imperia-fair-credit/</link>
+		
+		<dc:creator><![CDATA[Michal Tomeš]]></dc:creator>
+		<pubDate>Fri, 04 Nov 2022 10:55:48 +0000</pubDate>
+				<category><![CDATA[Ekonomika]]></category>
+		<guid isPermaLink="false">https://denikn.cz/?p=1002018</guid>
+
+					<description><![CDATA[Městský soud v Praze rozhodl o zahájení dalšího insolvenčního řízení v kauze finanční skupiny Fair Credit. Ta se začala hroutit v posledních měsících, nyní do insolvence míří i společnost Concord Financial Holding. Ta byla ještě před pár dny mateřskou firmou celé skupiny.]]></description>
+		
+		
+		
+		<enclosure url="https://img.novydenik.com/wp-static/2018/10/5R0A0224a.jpg?fm%3Djpg%26q%3D85%26w%3D690" type="image/jpeg" length="2895729" />	</item>
+		<item>
+		<title>Film je umění možného a natáčet můžete jen s těmi, kteří se tomu nebrání</title>
+		<link>https://denikn.cz/1002029/film-je-umeni-mozneho-a-natacet-muzete-jen-s-temi-kteri-se-tomu-nebrani/</link>
+		
+		<dc:creator><![CDATA[Mediální spolupráce]]></dc:creator>
+		<pubDate>Fri, 04 Nov 2022 10:55:41 +0000</pubDate>
+				<category><![CDATA[Kultura]]></category>
+		<category><![CDATA[Mediální spolupráce]]></category>
+		<guid isPermaLink="false">https://denikn.cz/?p=1002029</guid>
+
+					<description><![CDATA[Krátce po úspěšném uvedení dokumentu Good Old Czechs o českých letcích RAF přichází režisér Tomáš Bojar do kin s novým filmem, tentokrát z prostředí přijímacích řízení na Akademii výtvarných umění. Dokument Zkouška umění, na kterém spolupracoval s režisérkou Adélou Komrzý, získal dvě ceny na Mezinárodním filmovém festivalu v Karlových Varech, a byl dokonce vybrán na nejprestižnější festival dokumentárních filmů IDFA.]]></description>
+		
+		
+		
+		<enclosure url="https://img.novydenik.com/wp-static/2022/11/Snimek-obrazovky-2022-06-02-082820.jpg?fm%3Djpg%26q%3D85%26w%3D690" type="image/jpeg" length="267929" />	</item>
+		<item>
+		<title>Zastřelil se, aby vyburcoval svět před hrozbou agresora. Zapomenutá oběť předválečného československého novináře</title>
+		<link>https://denikn.cz/1001886/zastrelil-se-aby-vyburcoval-svet-pred-hrozbou-agresora-zapomenuta-obet-predvalecneho-ceskoslovenskeho-novinare/</link>
+		
+		<dc:creator><![CDATA[Zuzana Hevler]]></dc:creator>
+		<pubDate>Fri, 04 Nov 2022 10:21:59 +0000</pubDate>
+				<category><![CDATA[Česko]]></category>
+		<category><![CDATA[Svět]]></category>
+		<category><![CDATA[Historie]]></category>
+		<category><![CDATA[Německo]]></category>
+		<guid isPermaLink="false">https://denikn.cz/?p=1001886</guid>
+
+					<description><![CDATA[Štefan Lux, československý novinář, herec a básník, se před 86 lety v Ženevě přímo během jednání Společnosti národů, předchůdkyně OSN, zastřelil, aby upozornil svět na osud Židů v Německu. Ačkoliv měl jeho příběh zcela v protikladu s jeho plánem jen minimální dopad na historický vývoj událostí, v současnosti jeho čin znovu nabírá na významu. V den jeho narozenin přinášíme příběh, který si dnes v Ženevě v budově SN a OSN připomenou historici.]]></description>
+		
+		
+		
+		<enclosure url="https://img.novydenik.com/wp-static/2022/11/Stefan-Lux-ceskoslovensky-novinar-herec-reziser-spisovatel-a-bojovnik-proti-antisemitismu-A-vyst.jpg?fm%3Djpg%26q%3D85%26w%3D690" type="image/jpeg" length="999185" />	</item>
+	</channel>
+</rss>

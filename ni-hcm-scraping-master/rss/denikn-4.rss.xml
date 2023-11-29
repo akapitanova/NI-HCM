@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://denikn.cz/wp-content/themes/dn-2/rss2_style.xsl" ?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>4. stránka &#8211; Deník N</title>
+	<atom:link href="https://denikn.cz/feed?paged=4" rel="self" type="application/rss+xml" />
+	<link>https://denikn.cz</link>
+	<description>Nezávislý český deník</description>
+	<lastBuildDate>Fri, 04 Nov 2022 18:04:35 +0000</lastBuildDate>
+	<language>cs</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9.3</generator>
+	<item>
+		<title>Vývoj bojů (252. den): Vrtulníky na Ukrajině padají rychlým tempem, před raketami se nemají kam schovat</title>
+		<link>https://denikn.cz/1001554/vyvoj-boju-252-den-vrtulniky-na-ukrajine-padaji-rychlym-tempem-pred-raketami-se-nemaji-kam-schovat/</link>
+		
+		<dc:creator><![CDATA[Roman Pataj, Denník N]]></dc:creator>
+		<pubDate>Thu, 03 Nov 2022 17:11:21 +0000</pubDate>
+				<category><![CDATA[Svět]]></category>
+		<category><![CDATA[Vývoj bojů na Ukrajině]]></category>
+		<guid isPermaLink="false">https://denikn.cz/?p=1001554</guid>
+
+					<description><![CDATA[Mají vrtulníky v moderní válce ještě šanci? Z úřadu v okupovaném Chersonu zmizela ruská vlajka. Nevíme, co to znamená. Rusové útočí na několika místech, nejsilněji se prosazují u Vuhledaru. Co se stalo v sobotu v Sevastopolu. Zapojí se Lukašenko do války na Ukrajině přímo? Velmi pravděpodobně ne. Mapy dne – Vuhledar a Bachmut. Videa dne – obraz zkázy v Mariupolu; detailní prohlídka ukořistěného T-90A; jak [&#8230;]]]></description>
+		
+		
+		
+		<enclosure url="https://img.novydenik.com/wp-static/2022/11/ka-52.jpg?fm%3Djpg%26q%3D85%26w%3D690" type="image/jpeg" length="213601" />	</item>
+		<item>
+		<title>„Obce měly připravené i čtyři lidi na klikání.“ O dotacích pro školy rozhodovala rychlost, systém se zhroutil</title>
+		<link>https://denikn.cz/1000817/obce-mely-pripravene-i-ctyri-lidi-na-klikani-o-dotacich-pro-skoly-rozhodovala-rychlost-system-se-zhroutil/</link>
+		
+		<dc:creator><![CDATA[Markéta Boubínová]]></dc:creator>
+		<pubDate>Thu, 03 Nov 2022 16:45:58 +0000</pubDate>
+				<category><![CDATA[Česko]]></category>
+		<category><![CDATA[Digitální technologie]]></category>
+		<category><![CDATA[Školství]]></category>
+		<guid isPermaLink="false">https://denikn.cz/?p=1000817</guid>
+
+					<description><![CDATA[Obce kritizují ministerstvo pro místní rozvoj za způsob, jímž musely žádat o dotace pro své školy. Jednalo se o tzv. klikačku – kdo žádost odešle dříve, ten má větší šanci peníze získat. Systém nápor žadatelů nezvládl a hned po spuštění 1. listopadu spadl. ]]></description>
+		
+		
+		
+		<enclosure url="https://img.novydenik.com/wp-static/2022/04/Ivan-Bartos.jpg?fm%3Djpg%26q%3D85%26w%3D690" type="image/jpeg" length="3081884" />	</item>
+		<item>
+		<title>Zelenskyj strhl Putinovi masku, teď Rusko místo strachu vyvolává opovržení. S&#160;teroristickým státem vyjednávat nelze</title>
+		<link>https://denikn.cz/1001183/zelenskyj-strhl-putinovi-masku-ted-rusko-misto-strachu-vyvolava-opovrzeni-s-teroristickym-statem-vyjednavat-nelze/</link>
+		
+		<dc:creator><![CDATA[Ekaterina Kanakova]]></dc:creator>
+		<pubDate>Thu, 03 Nov 2022 16:45:08 +0000</pubDate>
+				<category><![CDATA[Komentáře]]></category>
+		<category><![CDATA[Ruská válka na Ukrajině]]></category>
+		<guid isPermaLink="false">https://denikn.cz/?p=1001183</guid>
+
+					<description><![CDATA[S Ruskem nelze vyjednávat, i když by toho nyní Putin na Ukrajině rád dosáhl. Novinářka Ekaterina Kanakova ze zakázané stanice Echo Moskvy ve svém komentáři vysvětluje proč.]]></description>
+		
+		
+		
+		<enclosure url="https://img.novydenik.com/wp-static/2022/09/profimedia-0723210253.jpg?fm%3Djpg%26q%3D85%26w%3D690" type="image/jpeg" length="173413" />	</item>
+		<item>
+		<title>„Rozhodl jsem se skončit, ale bylo to brutální.“ Mladí popisují nebezpečí volně dostupné látky kratom</title>
+		<link>https://denikn.cz/999323/rozhodl-jsem-se-skoncit-ale-bylo-to-brutalni-mladi-popisuji-nebezpeci-volne-dostupne-latky-kratom/</link>
+		
+		<dc:creator><![CDATA[Iva Bezděková]]></dc:creator>
+		<pubDate>Thu, 03 Nov 2022 16:05:32 +0000</pubDate>
+				<category><![CDATA[Audio]]></category>
+		<category><![CDATA[Česko]]></category>
+		<category><![CDATA[Zdravotnictví]]></category>
+		<guid isPermaLink="false">https://denikn.cz/?p=999323</guid>
+
+					<description><![CDATA[V obchodech, na internetu či v automatech je volně k dostání návyková látka kratom. Působí podobně jako opiáty, koupit si ji přitom mohou i děti. Deník N přináší výpovědi několika mladých lidí, kteří popisují mimo jiné i to, jak se závislostí bojovali. Ministerstvo zdravotnictví chce kratom zařadit na seznam návykových látek.]]></description>
+		
+		
+		
+		<enclosure url="https://img.novydenik.com/wp-static/2022/11/kratom-e1667306997440.jpg?fm%3Djpg%26q%3D85%26w%3D690" type="image/jpeg" length="131347" />	</item>
+		<item>
+		<title>Rimini: Zpěvák Ulricha Seidla je tak příšerný, až je možná geniální</title>
+		<link>https://denikn.cz/999944/rimini-zpevak-ulricha-seidla-je-tak-priserny-az-je-mozna-genialni/</link>
+		
+		<dc:creator><![CDATA[Petr Novák]]></dc:creator>
+		<pubDate>Thu, 03 Nov 2022 14:44:36 +0000</pubDate>
+				<category><![CDATA[Hlavní]]></category>
+		<category><![CDATA[Kultura]]></category>
+		<category><![CDATA[Film]]></category>
+		<guid isPermaLink="false">https://denikn.cz/?p=999944</guid>
+
+					<description><![CDATA[Film Ulricha Seidla Rimini, který právě vstupuje do českých kin, sleduje postavu rakouské popové hvězdy Richieho Brava. Smrt matky jej přivádí zpět z jeho adoptivního domova v Itálii do jeho pokoje v rodném Rakousku, kde Charlton Heston stále napíná bicepsy a Vinnetou je stále naživu. ]]></description>
+		
+		
+		
+		<enclosure url="https://img.novydenik.com/wp-static/2022/11/Rimini-Image04FE022913jpeg.jpg?fm%3Djpg%26q%3D85%26w%3D690" type="image/jpeg" length="4958222" />	</item>
+		<item>
+		<title>Snížit podporu nezaměstnaným je „plivanec do louže“, kritizují Jurečkův plán ekonomové</title>
+		<link>https://denikn.cz/1001237/snizit-podporu-nezamestnanym-je-plivanec-do-louze-kritizuji-jureckuv-plan-ekonomove/</link>
+		
+		<dc:creator><![CDATA[Jan Úšela]]></dc:creator>
+		<pubDate>Thu, 03 Nov 2022 14:10:39 +0000</pubDate>
+				<category><![CDATA[Česko]]></category>
+		<category><![CDATA[Ekonomika]]></category>
+		<category><![CDATA[Rozpočet]]></category>
+		<guid isPermaLink="false">https://denikn.cz/?p=1001237</guid>
+
+					<description><![CDATA[Experti upozorňují, že lidem bez práce jde jen zlomek peněz z rozpočtu Jurečkova ministerstva. Když jim navíc stát podporu sníží, budou stejně čerpat jiné sociální dávky. 
+]]></description>
+		
+		
+		
+		<enclosure url="https://img.novydenik.com/wp-static/2022/08/1Z65944.jpg?fm%3Djpg%26q%3D85%26w%3D690" type="image/jpeg" length="1536923" />	</item>
+		<item>
+		<title>Blažek předložil novelu zákona o státních zástupcích. „Je to ještě horší než předtím,“ oponuje Stříž</title>
+		<link>https://denikn.cz/1000933/blazek-predlozil-novelu-zakona-o-statnich-zastupcich-je-to-jeste-horsi-nez-predtim-oponuje-striz/</link>
+		
+		<dc:creator><![CDATA[Lukáš Prchal]]></dc:creator>
+		<pubDate>Thu, 03 Nov 2022 13:51:42 +0000</pubDate>
+				<category><![CDATA[Česko]]></category>
+		<guid isPermaLink="false">https://denikn.cz/?p=1000933</guid>
+
+					<description><![CDATA[Dlouho očekávaná novela zákona o státním zastupitelství narazila na kritiku. Vláda by měla mít i nadále možnost na návrh ministra spravedlnosti odvolat nejvyššího státního zástupce. Podle současného šéfa žalobců Igora Stříže je novela ministra Pavla Blažka (ODS) ještě horší než současný zákon, předlohu kritizují také další zástupci justice. Úplná shoda zatím není ani v koalici.]]></description>
+		
+		
+		
+		<enclosure url="https://img.novydenik.com/wp-static/2021/12/Pavel-Blazek-7.jpg?fm%3Djpg%26q%3D85%26w%3D690" type="image/jpeg" length="2609461" />	</item>
+		<item>
+		<title>Je to celé úplně špatně. S Blažkem jsme měli shodu, pak se to změnilo o 180 stupňů, kritizuje Stříž ministrův návrh</title>
+		<link>https://denikn.cz/1000971/je-to-cele-uplne-spatne-s-blazkem-jsme-meli-shodu-pak-se-to-zmenilo-o-180-stupnu-kritizuje-striz-ministruv-navrh/</link>
+		
+		<dc:creator><![CDATA[Lukáš Prchal]]></dc:creator>
+		<pubDate>Thu, 03 Nov 2022 13:49:47 +0000</pubDate>
+				<category><![CDATA[Česko]]></category>
+		<category><![CDATA[Rozhovory]]></category>
+		<guid isPermaLink="false">https://denikn.cz/?p=1000971</guid>
+
+					<description><![CDATA[Nejvyšší státní zástupce Igor Stříž kritizuje novelu zákona o státním zastupitelství, kterou koncem října předložil ministr spravedlnosti Pavel Blažek (ODS). Šéf žalobců tvrdí, že ještě v létě měli s ministrem na podobě úpravy shodu, Blažek ale podle něj předložil něco jiného. „Přes léto, kdy probíhaly politické debaty, se ten první a zásadní bod změnil o 180 stupňů,“ říká v rozhovoru s Deníkem N. Kritizuje i to, že podle Blažkovy novely by i nadále mohla šéfa žalobců odvolat vláda. ]]></description>
+		
+		
+		
+		<enclosure url="https://img.novydenik.com/wp-static/2021/07/5R0A0294.jpg?fm%3Djpg%26q%3D85%26w%3D690" type="image/jpeg" length="1322672" />	</item>
+		<item>
+		<title>Čech z&#160;kauzy Safronov, kterého Putinův režim odsoudil na 22 let za špionáž pro Česko, radí ministerstvu obrany</title>
+		<link>https://denikn.cz/999028/platil-za-informace-rusovi-ktery-pak-dostal-22-let-za-udajnou-spionaz-pro-cesko-nyni-radi-ministerstvu-obrany/</link>
+		
+		<dc:creator><![CDATA[Lukáš Prchal]]></dc:creator>
+		<pubDate>Thu, 03 Nov 2022 12:48:02 +0000</pubDate>
+				<category><![CDATA[Česko]]></category>
+		<category><![CDATA[Rusko]]></category>
+		<guid isPermaLink="false">https://denikn.cz/?p=999028</guid>
+
+					<description><![CDATA[Jedním z poradců na ministerstvu obrany je bývalý novinář Martin Laryš. Ten figuroval v kauze Ivana Safronova, který v Rusku dostal 22 let za údajnou vlastizradu. Právě Laryšovi měl podle obžaloby předávat prý utajované informace.]]></description>
+		
+		
+		
+		<enclosure url="https://img.novydenik.com/wp-static/2022/11/profimedia-0162557466.jpg?fm%3Djpg%26q%3D85%26w%3D690" type="image/jpeg" length="365295" />	</item>
+		<item>
+		<title>Zemanovo veto je mstou za osekání jeho peněz, zní z koalice. Daně zaměstnancům nechtějí zvyšovat ani Piráti</title>
+		<link>https://denikn.cz/1001077/zemanovo-veto-je-mstou-za-osekani-jeho-penez-zni-z-koalice-dane-zamestnancum-nechteji-zvysovat-ani-pirati/</link>
+		
+		<dc:creator><![CDATA[Michal Tomeš]]></dc:creator>
+		<pubDate>Thu, 03 Nov 2022 12:40:24 +0000</pubDate>
+				<category><![CDATA[Česko]]></category>
+		<category><![CDATA[Ekonomika]]></category>
+		<category><![CDATA[Daně]]></category>
+		<category><![CDATA[Rozpočet]]></category>
+		<guid isPermaLink="false">https://denikn.cz/?p=1001077</guid>
+
+					<description><![CDATA[Prezident Miloš Zeman vetoval novelu rozpočtu na letošní rok, který počítá se schodkem ve výši 375 miliard korun. Zeman svůj krok odůvodnil daňovou strategií vlády. Vadí mu, že kabinet nepřistoupil k opětovnému zavedení superhrubé mzdy. Tu poslanci zrušili před dvěma lety, krok reálně vedl k výraznému snížení daně z příjmů.]]></description>
+		
+		
+		
+		<enclosure url="https://img.novydenik.com/wp-static/2022/10/profimedia-0669930889.jpg?fm%3Djpg%26q%3D85%26w%3D690" type="image/jpeg" length="443724" />	</item>
+	</channel>
+</rss>
