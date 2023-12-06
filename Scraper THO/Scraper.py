@@ -29,6 +29,9 @@ class Scraper:
             page = requests.get(url)
             soup = bs(page.content, 'html.parser')
             a = soup.find(class_='opener').text.strip()
+            a = a.replace('\n', '')
+            a = a.replace('\r', '')
+            a = a.replace('<br/>', '')
             return a
     
     def scrapeIdnes(self, from_web, main_url, page_counter):
@@ -38,14 +41,14 @@ class Scraper:
             scrape = True
             while(scrape):
                 page = requests.get(main_url.format(page_counter))
+                print(f'scraping page {page_counter}')
                 page_counter -= 1
                 soup = bs(page.content, 'html.parser')
                 articles = soup.find_all(class_='art')
                 articles = reversed(articles)
-
                 for a in articles:
                     date = a.find(class_='time').get('datetime')
-                    date = datetime.datetime.strptime(date[0:10], '%Y-%M-%d').date()
+                    date = datetime.datetime.strptime(date[0:10], '%Y-%m-%d').date()
                     if date < self.first_date:
                         continue
                     if date > self.one_week_later:
@@ -53,6 +56,7 @@ class Scraper:
                         break
                     url = a.find(class_='art-link').get('href')
                     title = a.find(class_='art-link').text.strip()
+                    print(title)
                     if not 'OBRAZEM:' in title:
                         art = self.getOpenerIdnes(url)
                         self.articles[from_web].append(Article(url=url, datetime=date, title=title, abstract=art))
@@ -62,6 +66,9 @@ class Scraper:
             page = requests.get(url)
             soup = bs(page.content, 'html.parser')
             a = soup.find(class_='opener').text.strip()
+            a = a.replace('\n', '')
+            a = a.replace('\r', '')
+            a = a.replace('<br/>', '')
             return a
 
     def scrapeLidovky(self, from_web, main_url, page_counter):
@@ -71,6 +78,7 @@ class Scraper:
             scrape = True
             while(scrape):
                 page = requests.get(main_url.format(page_counter))
+                print(f'scraping page {page_counter}')
                 page_counter -= 1
                 soup = bs(page.content, 'html.parser')
                 articles = soup.find_all(class_='art')
@@ -78,7 +86,7 @@ class Scraper:
 
                 for a in articles:
                     date = a.find(class_='time').get('datetime')
-                    date = datetime.datetime.strptime(date[0:10], '%Y-%M-%d').date()
+                    date = datetime.datetime.strptime(date[0:10], '%Y-%m-%d').date()
                     if date < self.first_date:
                         continue
                     if date > self.one_week_later:
@@ -86,6 +94,7 @@ class Scraper:
                         break
                     url = a.find(class_='art-link').get('href')
                     title = a.find('h3').text.strip()
+                    print(title)
                     if not 'OBRAZEM:' in title:
                         art = self.getOpenerLidovky(url)
                         self.articles[from_web].append(Article(url=url, datetime=date, title=title, abstract=art))
@@ -97,6 +106,9 @@ class Scraper:
             a = soup.find(class_='article__perex').text.strip()
             if a == '' :
                  a = soup.find('p').text.strip()
+            a = a.replace('\n', '')
+            a = a.replace('\r', '')
+            a = a.replace('<br/>', '')
             return a
 
     def scrapeAktualne(self, from_web, main_url, page_counter):
@@ -106,6 +118,7 @@ class Scraper:
             scrape = True
             while(scrape):
                 page = requests.get(main_url.format(page_counter))
+                print(f'scraping page {page_counter}')
                 page_counter -= 20
                 soup = bs(page.content, 'html.parser')
 
@@ -118,7 +131,7 @@ class Scraper:
                          date = ''.join(tmp[1:4])
                     else:
                         date = ''.join(tmp[:3])
-                    date = datetime.datetime.strptime(date, '%d.%M.%Y').date()
+                    date = datetime.datetime.strptime(date, '%d.%m.%Y').date()
                     if date < self.first_date:
                         continue
                     if date > self.one_week_later:
@@ -126,6 +139,7 @@ class Scraper:
                         break
                     url = 'https://zpravy.aktualne.cz/' + a.find('a').get('href')
                     title = a.find('h3').text.strip()
+                    print(title)
                     art = self.getOpenerAktualne(url)
                     self.articles[from_web].append(Article(url=url, datetime=date, title=title, abstract=art))
 
@@ -137,7 +151,7 @@ class Scraper:
                          date = ''.join(tmp[1:4])
                     else:
                         date = ''.join(tmp[:3])
-                    date = datetime.datetime.strptime(date, '%d.%M.%Y').date()
+                    date = datetime.datetime.strptime(date, '%d.%m.%Y').date()
                 
                     if date < self.first_date:
                         continue
@@ -146,6 +160,7 @@ class Scraper:
                         break
                     url = 'https://zpravy.aktualne.cz/' + a.find('a').get('href')
                     title = a.find('h3').text.strip()
+                    print(title)
                     art = self.getOpenerAktualne(url)
                     self.articles[from_web].append(Article(url=url, datetime=date, title=title, abstract=art))
 
@@ -154,6 +169,9 @@ class Scraper:
             page = requests.get(url)
             soup = bs(page.content, 'html.parser')
             a = soup.find('p').text.strip()
+            a = a.replace('\n', '')
+            a = a.replace('\r', '')
+            a = a.replace('<br/>', '')
             return a
 
     def scrapeAC24(self, from_web, main_url, page_counter):
@@ -163,6 +181,7 @@ class Scraper:
             scrape = True
             while(scrape):
                 page = requests.get(main_url.format(page_counter))
+                print(f'scraping page {page_counter}')
                 page_counter -= 1
                 soup = bs(page.content, 'html.parser')
                 articles = soup.find_all(class_='column post-column small-mb-2 large-mb-4 hor-sep-b')
@@ -170,13 +189,14 @@ class Scraper:
 
                 for a in articles:
                     date = a.find(class_='entry-date published').get('datetime')
-                    date = datetime.datetime.strptime(date[0:10], '%Y-%M-%d').date()
+                    date = datetime.datetime.strptime(date[0:10], '%Y-%m-%d').date()
                     if date < self.first_date:
                         continue
                     if date > self.one_week_later:
                         scrape = False
                         break
                     title = a.find('h2').text.strip()
+                    print(title)
                     url = a.find(class_='hover-line').get('href')
                     art = self.getOpenerAC24(url)
                     self.articles[from_web].append(Article(url=url, datetime=date, title=title, abstract=art))
@@ -201,6 +221,7 @@ class Scraper:
             rep = {'leden': 'January', 'únor': 'February','prosinec': 'December'}
             while(scrape):
                 page = requests.get(main_url.format(page_counter))
+                print(f'scraping page {page_counter}')
                 page_counter -= 1
                 soup = bs(page.content, 'html.parser')
                 articles = soup.find_all(class_='item-inner clearfix')
@@ -219,20 +240,20 @@ class Scraper:
                         scrape = False
                         break
                     title = a.find('h2').text.strip()
+                    print(title)
                     url = 'https://www.czechfreepress.cz/' + a.find('h2').find('a').get('href')
                     art = self.getOpenerCzechFreePress(url)
                     self.articles[from_web].append(Article(url=url, datetime=date, title=title, abstract=art))
 
 
 if __name__ == '__main__':
-    scraper = Scraper(datetime.date(2023, 1, 1), datetime.date(2023, 1, 1) + datetime.timedelta(days=7))
-    
-    scraper.scrapeIdnes(from_web='idnes.cz', main_url='https://www.idnes.cz/zpravy/domaci/{}', page_counter=175)
+    scraper = Scraper(datetime.date(2023, 1, 1), datetime.date(2023, 1, 1) + datetime.timedelta(days=30))
+
+    scraper.scrapeIdnes(from_web='idnes.cz', main_url='https://www.idnes.cz/zpravy/domaci/{}', page_counter=176)
     scraper.scrapeLidovky(from_web='lidovky.cz', main_url='https://www.lidovky.cz/archiv/{}', page_counter=448)
     scraper.scrapeAktualne(from_web='aktualne.cz', main_url='https://zpravy.aktualne.cz/domaci/?offset={}', page_counter=3860)
     scraper.scrapeAC24(from_web='ac24.cz', main_url='https://www.ac24.cz/page/{}', page_counter=324)
     scraper.scrapeCzechFreePress(from_web='czechfreepress.cz', main_url='https://www.czechfreepress.cz/z-domova/z-domova/blog.html?page={}', page_counter=11)
-    print(scraper.articles)
 
     f = open('Articles.csv', 'w')
     f.writelines('Web;Title;Url;Datetime;Abstract\n')
