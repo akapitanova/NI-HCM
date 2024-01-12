@@ -31,6 +31,8 @@ class Scraper:
             a = soup.find(class_='opener').text.strip()
             a = a.replace('\n', '')
             a = a.replace('\r', '')
+            a = a.replace('\t', ',')
+            a = a.replace(';', ',')
             a = a.replace('<br/>', '')
             return a
     
@@ -58,6 +60,8 @@ class Scraper:
                     title = a.find(class_='art-link').text.strip()
                     title = title.replace('\n', '')
                     title = title.replace('\r', '')
+                    title = title.replace('\t', ',')
+                    title = title.replace(';', ',')
                     title = title.replace('<br/>', '')
                     print(title)
                     if not 'OBRAZEM:' in title:
@@ -71,6 +75,8 @@ class Scraper:
             a = soup.find(class_='opener').text.strip()
             a = a.replace('\n', '')
             a = a.replace('\r', '')
+            a = a.replace('\t', ',')
+            a = a.replace(';', ',')
             a = a.replace('<br/>', '')
             return a
 
@@ -99,6 +105,8 @@ class Scraper:
                     title = a.find('h3').text.strip()
                     title = title.replace('\n', '')
                     title = title.replace('\r', '')
+                    title = title.replace('\t', ',')
+                    title = title.replace(';', ',')
                     title = title.replace('<br/>', '')
                     print(title)
                     obrazem = a.find(class_='brisk')
@@ -119,6 +127,8 @@ class Scraper:
             else: a = a.text.strip()
             a = a.replace('\n', '')
             a = a.replace('\r', '')
+            a = a.replace('\t', ',')
+            a = a.replace(';', ',')
             a = a.replace('<br/>', '')
             return a
 
@@ -152,6 +162,8 @@ class Scraper:
                     title = a.find('h3').text.strip()
                     title = title.replace('\n', '')
                     title = title.replace('\r', '')
+                    title = title.replace('\t', ',')
+                    title = title.replace(';', ',')
                     title = title.replace('<br/>', '')
                     print(title)
                     art = self.getOpenerAktualne(url)
@@ -176,6 +188,8 @@ class Scraper:
                     title = a.find('h3').text.strip()
                     title = title.replace('\n', '')
                     title = title.replace('\r', '')
+                    title = title.replace('\t', ',')
+                    title = title.replace(';', ',')
                     title = title.replace('<br/>', '')
                     print(title)
                     art = self.getOpenerAktualne(url)
@@ -188,6 +202,8 @@ class Scraper:
             a = soup.find('p').text.strip()
             a = a.replace('\n', '')
             a = a.replace('\r', '')
+            a = a.replace('\t', ',')
+            a = a.replace(';', ',')
             a = a.replace('<br/>', '')
             return a
 
@@ -215,6 +231,8 @@ class Scraper:
                     title = a.find('h2').text.strip()
                     title = title.replace('\n', '')
                     title = title.replace('\r', '')
+                    title = title.replace('\t', ',')
+                    title = title.replace(';', ',')
                     title = title.replace('<br/>', '')
                     print(title)
                     url = a.find(class_='hover-line').get('href')
@@ -230,6 +248,8 @@ class Scraper:
         a = a.rstrip()
         a = a.replace('\n', '')
         a = a.replace('\r', '')
+        a = a.replace('\t', ',')
+        a = a.replace(';', ',')
         a = a.replace('<br/>', '')
         return a
     
@@ -262,6 +282,8 @@ class Scraper:
                     title = a.find('h2').text.strip()
                     title = title.replace('\n', '')
                     title = title.replace('\r', '')
+                    title = title.replace('\t', ',')
+                    title = title.replace(';', ',')
                     title = title.replace('<br/>', '')
                     print(title)
                     url = 'https://www.czechfreepress.cz/' + a.find('h2').find('a').get('href')
@@ -276,6 +298,8 @@ class Scraper:
         a = soup.find(class_='article-content').text.strip()
         a = a.replace('\n', '')
         a = a.replace('\r', '')
+        a = a.replace('\t', ',')
+        a = a.replace(';', ',')
         a = a.replace('<br/>', '')
         return a
     
@@ -304,6 +328,8 @@ class Scraper:
                     title = title[0]
                     title = title.replace('\n', '')
                     title = title.replace('\r', '')
+                    title = title.replace('\t', ',')
+                    title = title.replace(';', ',')
                     title = title.replace('<br/>', '')
                     print(title)
                     url = 'https://pravdive.eu/' + a.find(class_='col-md-8 col-xs-9').find('a').get('href')
@@ -319,6 +345,8 @@ class Scraper:
         a = soup.find('p').text.strip()
         a = a.replace('\n', '')
         a = a.replace('\r', '')
+        a = a.replace('\t', ',')
+        a = a.replace(';', ',')
         a = a.replace('<br/>', '')
         return a
     
@@ -337,6 +365,11 @@ class Scraper:
                 date = datetime.datetime.strptime(date, '%d.%m.%Y').date()
                 if date > self.one_week_later: continue                 
                 title = data[0]
+                title = title.replace('\n', '')
+                title = title.replace('\r', '')
+                title = title.replace('\t', ',')
+                title = title.replace(';', ',')
+                title = title.replace('<br/>', '')
                 print(title)
                 url = 'https://zvedavec.news/' + a.find('a').get('href')
                 art = self.getOpenerZvedavec(url)
@@ -355,6 +388,8 @@ class Scraper:
             else:
                 retval = p.replace('\n', '')
                 retval = retval.replace('\r', '')
+                retval = retval.replace('\t', ',')
+                retval = retval.replace(';', ',')
                 retval = retval.replace('<br/>', '')
                 break
         return retval
@@ -385,6 +420,8 @@ class Scraper:
                     title = a.find('h3').text.strip()
                     title = title.replace('\n', '')
                     title = title.replace('\r', '')
+                    title = title.replace('\t', ',')
+                    title = title.replace(';', ',')
                     title = title.replace('<br/>', '')
                     url =  a.find('h3').find('a').get('href')
                     art = self.getOpenerNovaRepublika(url)
@@ -398,6 +435,8 @@ class Scraper:
         a = soup.find('p').text
         a = a.replace('\n', '')
         a = a.replace('\r', '')
+        a = a.replace('\t', ',')
+        a = a.replace(';', ',')
         a = a.replace('<br/>', '')  
         return a
     
@@ -425,6 +464,8 @@ class Scraper:
                     title = a.find('h2').text.strip()
                     title = title.replace('\n', '')
                     title = title.replace('\r', '')
+                    title = title.replace('\t', ',')
+                    title = title.replace(';', ',')
                     title = title.replace('<br/>', '')
                     print(title)
                     url =  'https://www.parlamentnilisty.cz' + a.find('a').get('href')
