@@ -6,7 +6,9 @@
 ## Project Goals  
 - Perform sentiment analysis on scraped Czech websites  
 - Compare sentiment differences between disinformation and mainstream news sources  
-- Analyze sentiment trends during the 2023 Czech presidential election  
+- Analyze sentiment trends during the 2023 Czech presidential election
+
+📄 **For detailed analysis and results, see the presentation:** [HCM.pdf](HCM.pdf) 
 
 ## Web Scraping  
 **Successfully Scraped Websites:**  
